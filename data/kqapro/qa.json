@@ -1,0 +1,805 @@
+[
+  {
+    "index": "kqapro-val-120",
+    "Question": "What award was won by Joss Whedon in 2013?",
+    "Answer": [
+      "Saturn Award for Best Director"
+    ],
+    "Source Entity": [
+      "Joss Whedon"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-158",
+    "Question": "Who was the Prime Minister of the United Kingdom prior to David Lloyd George?",
+    "Answer": [
+      "H. H. Asquith"
+    ],
+    "Source Entity": [
+      "Prime Minister of the United Kingdom"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-225",
+    "Question": "What person is a cast member in the character role of Joey Tribbiani in the television series whose genre is romance film?",
+    "Answer": [
+      "Matt LeBlanc"
+    ],
+    "Source Entity": [
+      "romance film"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-389",
+    "Question": "Which human was nominated for the Academy Awards received by Stephen Schwartz (the point in time of this statement is 1939)?",
+    "Answer": [
+      "Buddy DeSylva"
+    ],
+    "Source Entity": [
+      "Stephen Schwartz"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-601",
+    "Question": "Tell me the literary award that got nominated to the person who resides in Brookline (this statement ended in 2005)",
+    "Answer": [
+      "National Book Award for Fiction"
+    ],
+    "Source Entity": [
+      "Brookline"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-805",
+    "Question": "Which Academy Awards ceremony was received by the human that received an Academy Award for Best Actor at the 31st Academy Awards?",
+    "Answer": [
+      "31st Academy Awards"
+    ],
+    "Source Entity": [
+      "Academy Award for Best Actor"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-845",
+    "Question": "Who was the National Society of Film Critics Award winner for Best Actress for her work on You Can Count on Me?",
+    "Answer": [
+      "Laura Linney"
+    ],
+    "Source Entity": [
+      "National Society of Film Critics Award for Best Actress"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-1130",
+    "Question": "Which island group has diplomatic relations with a sovereign state that counts Brian McKnight (the subject of this statement is Bermuda–United States relations) as its citizen?",
+    "Answer": [
+      "Bermuda"
+    ],
+    "Source Entity": [
+      "Brian McKnight"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-1578",
+    "Question": "Who won for Best Featured Actor in a Play at the 59th Tony Awards?",
+    "Answer": [
+      "Liev Schreiber"
+    ],
+    "Source Entity": [
+      "Tony Award for Best Featured Actor in a Play"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-1592",
+    "Question": "In the year 1968, who received a Tony Award nomination in the category of Best Play?",
+    "Answer": [
+      "Arthur Miller"
+    ],
+    "Source Entity": [
+      "Tony Award for Best Play"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-1614",
+    "Question": "Who is the person nominated for the same award Audrey Hebpurn was nominated for, thanks to her performance in Secrets & Lies ?",
+    "Answer": [
+      "Brenda Blethyn"
+    ],
+    "Source Entity": [
+      "Audrey Hepburn"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-1716",
+    "Question": "What higher learning institution is located in the city that is the twinned administrative body of Monrovia starting on the date 1998-01-01?",
+    "Answer": [
+      "National Taiwan University"
+    ],
+    "Source Entity": [
+      "Monrovia"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-1789",
+    "Question": "What person was nominated for a Tony Award for Best Actor in a Muscial during the 60th Tony Awards?",
+    "Answer": [
+      "Harry Connick Jr."
+    ],
+    "Source Entity": [
+      "Tony Award for Best Actor in a Musical"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-1899",
+    "Question": "Sarah McLachlan won which award in 1999?",
+    "Answer": [
+      "Grammy Award for Best Female Pop Vocal Performance"
+    ],
+    "Source Entity": [
+      "Sarah McLachlan"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-2099",
+    "Question": "Which person is a member of Esporte Clube Bahia (the number of points of this statement is 0)?",
+    "Answer": [
+      "Hugo"
+    ],
+    "Source Entity": [
+      "Esporte Clube Bahia"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-2643",
+    "Question": "What is the name of the person that was nominated for the Academy Awards for I'm Not There, and win one for Cross Creek?",
+    "Answer": [
+      "Alfre Woodard"
+    ],
+    "Source Entity": [
+      "I'm Not There"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-2789",
+    "Question": "What sovereign state has Pakistan–Somalia diplomatic relations with Somalia?",
+    "Answer": [
+      "Pakistan"
+    ],
+    "Source Entity": [
+      "Somalia"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-3097",
+    "Question": "Who was the London Film Critics Circle Award winning Actress of the Year for King Kong?",
+    "Answer": [
+      "Naomi Watts"
+    ],
+    "Source Entity": [
+      "London Film Critics Circle Award for Actress of the Year"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-3315",
+    "Question": "What male-given name equals the given name of Leonard Cohen (the series ordinal of this statement is 2)?",
+    "Answer": [
+      "Norman"
+    ],
+    "Source Entity": [
+      "Leonard Cohen"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-3444",
+    "Question": "Which human, in 1962, received the Grammy Award that was also nominated to James Horner?",
+    "Answer": [
+      "Leslie Bricusse"
+    ],
+    "Source Entity": [
+      "James Horner"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-3561",
+    "Question": "Which person is a part of Millwall F.C. (the number of points of this statement is 5)?",
+    "Answer": [
+      "Scott McDonald"
+    ],
+    "Source Entity": [
+      "Millwall F.C."
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-4182",
+    "Question": "Who is Claire Danes's (the marriage place of this statement is France) spouse?",
+    "Answer": [
+      "Hugh Dancy"
+    ],
+    "Source Entity": [
+      "Claire Danes"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-4451",
+    "Question": "Which award did Ang Lee receive (the award-winning work of this statement is Lust, Caution)?",
+    "Answer": [
+      "Golden Lion"
+    ],
+    "Source Entity": [
+      "Ang Lee"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-4596",
+    "Question": "What person is a member of the Northampton Town F.C. until the ending date 1993-01-01?",
+    "Answer": [
+      "Matthew Fox"
+    ],
+    "Source Entity": [
+      "Northampton Town F.C."
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-4833",
+    "Question": "Which written was nominated for the Prometheus Award in 2003?",
+    "Answer": [
+      "The Lord of the Rings"
+    ],
+    "Source Entity": [
+      "Prometheus Award"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-5026",
+    "Question": "Who is the person that won a National Society of Film Critics Award for Best Supporting Actor for Boogie Nights?",
+    "Answer": [
+      "Burt Reynolds"
+    ],
+    "Source Entity": [
+      "National Society of Film Critics Award for Best Supporting Actor"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-5296",
+    "Question": "What class of award is won by David Fincher involving the award-winning work The Social Network?",
+    "Answer": [
+      "BAFTA Award for Best Direction"
+    ],
+    "Source Entity": [
+      "David Fincher"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-5297",
+    "Question": "Which award did Emily Mortimer (the point in time of this statement is 2002) win?",
+    "Answer": [
+      "Independent Spirit Award for Best Supporting Female"
+    ],
+    "Source Entity": [
+      "Emily Mortimer"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-5328",
+    "Question": "Tell me the ethnic group that is a Pakistan ethnic group (this statement's proportion is 0.154).",
+    "Answer": [
+      "Pashtun people"
+    ],
+    "Source Entity": [
+      "Pakistan"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-5405",
+    "Question": "Who is Diane Ladd's spouse (the end time of this statement is 1969)?",
+    "Answer": [
+      "Bruce Dern"
+    ],
+    "Source Entity": [
+      "Diane Ladd"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-5664",
+    "Question": "What film received the Academy Award for Best Production Design (the winner of this statement is Ernest Archer)?",
+    "Answer": [
+      "Nicholas and Alexandra"
+    ],
+    "Source Entity": [
+      "Academy Award for Best Production Design"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-5710",
+    "Question": "Who won a BAFTA Award for Best Actor in a Supporting Role in 1985?",
+    "Answer": [
+      "Denholm Elliott"
+    ],
+    "Source Entity": [
+      "BAFTA Award for Best Actor in a Supporting Role"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-6214",
+    "Question": "What city was named after the person that lived in Baku until 1956-10-20?",
+    "Answer": [
+      "Varna"
+    ],
+    "Source Entity": [
+      "Baku"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-6558",
+    "Question": "Who is a member of Blackpool F.C. (the start time of this statement is 2007-01-01)?",
+    "Answer": [
+      "Robbie Williams"
+    ],
+    "Source Entity": [
+      "Blackpool F.C."
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-6655",
+    "Question": "What capital is located in a sovereign state with diplomatic relations with Pakistan (Malaysia-Pakistan relations) ?",
+    "Answer": [
+      "Kuala Lumpur"
+    ],
+    "Source Entity": [
+      "Pakistan"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-6804",
+    "Question": "Who is the voice actor of a movie nominated for 45th Academy Award for Best Animated Short Film?",
+    "Answer": [
+      "Michael Hordern"
+    ],
+    "Source Entity": [
+      "Academy Award for Best Animated Short Film"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-7017",
+    "Question": "Who won the Filmfare Award for Best Actress in Kati Patang?",
+    "Answer": [
+      "Asha Parekh"
+    ],
+    "Source Entity": [
+      "Filmfare Award for Best Actress"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-7065",
+    "Question": "As of 2000, what award was Melissa Etheridge nominated for?",
+    "Answer": [
+      "Grammy Award for Best Female Rock Vocal Performance"
+    ],
+    "Source Entity": [
+      "Melissa Etheridge"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-7066",
+    "Question": "Who is the screenwriter that authored the feature film with Owen Wilson in the cast (the character role is Wilbur Wright)?",
+    "Answer": [
+      "Jules Verne"
+    ],
+    "Source Entity": [
+      "Owen Wilson"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-7293",
+    "Question": "Who is the person that received Tony Award for Best Actor in a Play (the subject of this statement is 40th Tony Awards) ?",
+    "Answer": [
+      "Judd Hirsch"
+    ],
+    "Source Entity": [
+      "Tony Award for Best Actor in a Play"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-7394",
+    "Question": "What person is a member of Swindon Town F.C. starting in the year 1999)?",
+    "Answer": [
+      "Andy Williams"
+    ],
+    "Source Entity": [
+      "Swindon Town F.C."
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-7740",
+    "Question": "Which animated feature film was composed by songwriter Sammy Cahn?",
+    "Answer": [
+      "Peter Pan"
+    ],
+    "Source Entity": [
+      "Sammy Cahn"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-7762",
+    "Question": "Who was nominated for an Academy Award for Best Supporting Actor for A Farewell to Arms?",
+    "Answer": [
+      "Vittorio De Sica"
+    ],
+    "Source Entity": [
+      "Academy Award for Best Supporting Actor"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-7874",
+    "Question": "Which person is a member of Raith Rovers F.C. (the end time of this statement is 2013)?",
+    "Answer": [
+      "Colin Wilson"
+    ],
+    "Source Entity": [
+      "Raith Rovers F.C."
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-7969",
+    "Question": "Which person was born in the city located in Rhineland-Palatinate (the administrative location of this statement is Rhine Province)?",
+    "Answer": [
+      "Karl Marx"
+    ],
+    "Source Entity": [
+      "Rhineland-Palatinate"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-8169",
+    "Question": "What person received the Tony Award for Best Actress in a Play (the subject of this statement is 44th Tony Awards)?",
+    "Answer": [
+      "Maggie Smith"
+    ],
+    "Source Entity": [
+      "Tony Award for Best Actress in a Play"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-8234",
+    "Question": "What human won the Academy Award for Best Costume Design in Alice in Wonderland?",
+    "Answer": [
+      "Colleen Atwood"
+    ],
+    "Source Entity": [
+      "Academy Award for Best Costume Design"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-8571",
+    "Question": "In what U.S. city did the person who won the Academy Award for Best Supporting Actor for his work in The Last Picture Show die?",
+    "Answer": [
+      "Mesa"
+    ],
+    "Source Entity": [
+      "Academy Award for Best Supporting Actor"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-8573",
+    "Question": "What film festival presented the award when Mira Nair won in 2001?",
+    "Answer": [
+      "Venice Film Festival"
+    ],
+    "Source Entity": [
+      "Mira Nair"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-8800",
+    "Question": "What person was nominated for the BAFTA Award for Best Film Music in 2003?",
+    "Answer": [
+      "Robbie Robertson"
+    ],
+    "Source Entity": [
+      "BAFTA Award for Best Film Music"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-8866",
+    "Question": "Which person earned an Academy Award for Best Actor for work on Stalag 17?",
+    "Answer": [
+      "William Holden"
+    ],
+    "Source Entity": [
+      "Academy Award for Best Actor"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-8918",
+    "Question": "What MTV Video Music Award did Nicki Minaj receive (the point in time of this statement is 2011)?",
+    "Answer": [
+      "MTV Video Music Award for Best Hip-Hop Video"
+    ],
+    "Source Entity": [
+      "Nicki Minaj"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-9104",
+    "Question": "Which human won an Academy Award for Best Actor in 1933?",
+    "Answer": [
+      "Charles Laughton"
+    ],
+    "Source Entity": [
+      "Academy Award for Best Actor"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-9193",
+    "Question": "Tell me the person who wins the film award that Neil Jordan won, with this statemet's award-winning work being The Player.",
+    "Answer": [
+      "Robert Altman"
+    ],
+    "Source Entity": [
+      "Neil Jordan"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-9236",
+    "Question": "Which person was nominated for the Academy Awards where Kirk Douglas (the award-winning work of this statement is The Man with the Golden Arm) received the prize ?",
+    "Answer": [
+      "Frank Sinatra"
+    ],
+    "Source Entity": [
+      "Kirk Douglas"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-9665",
+    "Question": "Which person scored 5 points as a member of Toronto FC?",
+    "Answer": [
+      "Jackson"
+    ],
+    "Source Entity": [
+      "Toronto FC"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-10336",
+    "Question": "Which visual artwork was the recipient of the award Nancy Haigh won and which was nominated to Boris Leven?",
+    "Answer": [
+      "Bugsy"
+    ],
+    "Source Entity": [
+      "Boris Leven"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-10464",
+    "Question": "Who was nominated for an Independent Spirit Award for Best Supporting Male for Chasing Amy?",
+    "Answer": [
+      "Jason Lee"
+    ],
+    "Source Entity": [
+      "Independent Spirit Award for Best Supporting Male"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-10503",
+    "Question": "Who was the individual winner of the Academy Award for Best Picture on 2014-03-02?",
+    "Answer": [
+      "Steve McQueen"
+    ],
+    "Source Entity": [
+      "Academy Award for Best Picture"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-10592",
+    "Question": "Which person is a member of Hibernian F.C. (the start time of this statement is 1996)?",
+    "Answer": [
+      "John Hughes"
+    ],
+    "Source Entity": [
+      "Hibernian F.C."
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-10600",
+    "Question": "What city became the twinned administrative body of Nashua on 2016-07-08?",
+    "Answer": [
+      "Mysore"
+    ],
+    "Source Entity": [
+      "Nashua"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-10673",
+    "Question": "Which person married Aaliyah in 1994?",
+    "Answer": [
+      "R. Kelly"
+    ],
+    "Source Entity": [
+      "Aaliyah"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-10749",
+    "Question": "What person received the award for the 2003 Sports Illustrated Sportsperson of the Year?",
+    "Answer": [
+      "Tim Duncan"
+    ],
+    "Source Entity": [
+      "Sports Illustrated Sportsperson of the Year"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-10819",
+    "Question": "The person famous for working on Cruel Intentions won which award for work on All My Children?",
+    "Answer": [
+      "Daytime Emmy Award for Outstanding Younger Actress in a Drama Series"
+    ],
+    "Source Entity": [
+      "Cruel Intentions"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-10831",
+    "Question": "Who became Olivia Wilde's partner on 2011-01-01?",
+    "Answer": [
+      "Jason Sudeikis"
+    ],
+    "Source Entity": [
+      "Olivia Wilde"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-10838",
+    "Question": "Which single was nominated for the award won by Bret McKenzie in 1950?",
+    "Answer": [
+      "Mona Lisa"
+    ],
+    "Source Entity": [
+      "Bret McKenzie"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-11103",
+    "Question": "Which city was the capital of British Raj, ending in 1947?",
+    "Answer": [
+      "Kolkata"
+    ],
+    "Source Entity": [
+      "British Raj"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-11187",
+    "Question": "What Primetime Emmy Award was Steve Allen nominated for in 1978?",
+    "Answer": [
+      "Primetime Emmy Award for Outstanding Writing for a Drama Series"
+    ],
+    "Source Entity": [
+      "Steve Allen"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-11272",
+    "Question": "Who is the person that received the Primetime Emmy Award, that is the kind of an award won by Alan Alda, for the work in Coach ?",
+    "Answer": [
+      "Craig T. Nelson"
+    ],
+    "Source Entity": [
+      "Alan Alda"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-11313",
+    "Question": "Who won the MTV Movie Award that was nominated to Martin Freeman (the award-winning work of this statement is The Exorcism of Emily Rose)?",
+    "Answer": [
+      "Jennifer Carpenter"
+    ],
+    "Source Entity": [
+      "Martin Freeman"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-11318",
+    "Question": "Which person is a member of Sheffield United F.C. (the end time of this statement is 2011)?",
+    "Answer": [
+      "Richard Wright"
+    ],
+    "Source Entity": [
+      "Sheffield United F.C."
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-11465",
+    "Question": "Which association football club stopped having Klaas-Jan Huntelaar as a member in 2005?",
+    "Answer": [
+      "SC Heerenveen"
+    ],
+    "Source Entity": [
+      "Klaas-Jan Huntelaar"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "kqapro-val-11598",
+    "Question": "Which human is different from the human that won the Screen Actors Guild Life Achievement Award in 1988?",
+    "Answer": [
+      "Fred Astaire"
+    ],
+    "Source Entity": [
+      "Screen Actors Guild Life Achievement Award"
+    ],
+    "Reasoning Path": null
+  }
+]

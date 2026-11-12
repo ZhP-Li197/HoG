@@ -1,0 +1,3 @@
+openai>=1.30
+numpy>=1.26
+sentence-transformers>=3.0

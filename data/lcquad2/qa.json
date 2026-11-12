@@ -1,0 +1,4636 @@
+[
+  {
+    "index": "lcquad2-20181217-test-4236",
+    "Question": "What is {nominated for} of {Dolores del Río} that is {for work} is {La Otra} ?",
+    "Answer": [
+      "Ariel Award for Best Actress"
+    ],
+    "Source Entity": [
+      "Dolores del Río"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6898",
+    "Question": "Franz Waxman was nominated for which statement of subject at the 23rd Academy Awards?",
+    "Answer": [
+      "Academy Award for Best Original Dramatic or Comedy Score"
+    ],
+    "Source Entity": [
+      "Franz Waxman"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5057",
+    "Question": "What position was held by Harry S. Truman on 1/3/1935?",
+    "Answer": [
+      "United States senator"
+    ],
+    "Source Entity": [
+      "Harry S. Truman"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4534",
+    "Question": "Who did Shirley Jackson marry in 1940?",
+    "Answer": [
+      "Stanley Edgar Hyman"
+    ],
+    "Source Entity": [
+      "Shirley Jackson"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6266",
+    "Question": "What city was New Orleans twinned with in 2012?",
+    "Answer": [
+      "Batumi"
+    ],
+    "Source Entity": [
+      "New Orleans"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4970",
+    "Question": "What award was Jean Umansky nominated for in Amelie?",
+    "Answer": [
+      "Academy Award for Best Sound Mixing"
+    ],
+    "Source Entity": [
+      "Amélie"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8492",
+    "Question": "What is the name of 1st series of Heinrich Himmler?",
+    "Answer": [
+      "Heinrich"
+    ],
+    "Source Entity": [
+      "Heinrich Himmler"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6975",
+    "Question": "What job did Franz von Papen replace Herman Goring?",
+    "Answer": [
+      "Vice-Chancellor of Germany",
+      "Minister President of Prussia"
+    ],
+    "Source Entity": [
+      "Hermann Göring"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5004",
+    "Question": "Who was the head of government in Texas in 2015-1-20?",
+    "Answer": [
+      "Rick Perry"
+    ],
+    "Source Entity": [
+      "Texas"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6343",
+    "Question": "What award was Joel Grey nominated for in the 33rd Tony Awards?",
+    "Answer": [
+      "Tony Award for Best Actor in a Musical"
+    ],
+    "Source Entity": [
+      "Joel Grey"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7595",
+    "Question": "What is Gian Lorenzo Bernini's first name?",
+    "Answer": [
+      "Gian"
+    ],
+    "Source Entity": [
+      "Gian Lorenzo Bernini"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-9220",
+    "Question": "Sébastien Chabal was a member of which sports team in the year 2014?",
+    "Answer": [
+      "Lyon OU"
+    ],
+    "Source Entity": [
+      "Sébastien Chabal"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5633",
+    "Question": "What position did F.W. de Klerk replace Alwyn Schelbusch as?",
+    "Answer": [
+      "Deputy President of South Africa"
+    ],
+    "Source Entity": [
+      "F. W. de Klerk"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8634",
+    "Question": "Where was Nicolaus Copernicus educated in 1503?",
+    "Answer": [
+      "University of Padua",
+      "University of Ferrara"
+    ],
+    "Source Entity": [
+      "Nicolaus Copernicus"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-9356",
+    "Question": "What position did Al Franken hold on July 7, 2007?",
+    "Answer": [
+      "United States senator"
+    ],
+    "Source Entity": [
+      "Al Franken"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5814",
+    "Question": "What is nominated for Gwen Verdon at 1966-0-0?",
+    "Answer": [
+      "Tony Award for Best Actress in a Musical"
+    ],
+    "Source Entity": [
+      "Gwen Verdon"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6001",
+    "Question": "What is Israel's diplomatic position in Israel's and the United States relations?",
+    "Answer": [
+      "United States of America"
+    ],
+    "Source Entity": [
+      "Israel"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8556",
+    "Question": "Who was Robert Shaw married to until 1975?",
+    "Answer": [
+      "Mary Ure"
+    ],
+    "Source Entity": [
+      "Robert Shaw"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4719",
+    "Question": "What position does Giorgio Vasari hold at House of Medici?",
+    "Answer": [
+      "court painter"
+    ],
+    "Source Entity": [
+      "Giorgio Vasari"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7236",
+    "Question": "Who was he leader of Niamey until 1970?",
+    "Answer": [
+      "Daddy Gaoh"
+    ],
+    "Source Entity": [
+      "Niamey"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3975",
+    "Question": "What is the administrative territorial entity of Khabarovsk that was established on April 28th, 2004?",
+    "Answer": [
+      "Q27522935"
+    ],
+    "Source Entity": [
+      "Khabarovsk"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6476",
+    "Question": "On what military branch Sigmund Jähn served until 1965?",
+    "Answer": [
+      "Jagdfliegergeschwader 8"
+    ],
+    "Source Entity": [
+      "Sigmund Jähn"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3832",
+    "Question": "What award did Walter Cronkite receive in 1980?",
+    "Answer": [
+      "Peabody Award"
+    ],
+    "Source Entity": [
+      "Walter Cronkite"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4451",
+    "Question": "What award was Glenn Gould nominated for in 1982?",
+    "Answer": [
+      "Grammy Award for Best Classical Album",
+      "Grammy Award for Best Instrumental Soloist Performance (without orchestra)"
+    ],
+    "Source Entity": [
+      "Glenn Gould"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6004",
+    "Question": "What was William Styron nominated for for his work in Lie Down in Darkness?",
+    "Answer": [
+      "National Book Award for Fiction"
+    ],
+    "Source Entity": [
+      "William Styron"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-9466",
+    "Question": "What is Gene Hackman's nomination area for the 43rd Academy Awards?",
+    "Answer": [
+      "Academy Award for Best Supporting Actor"
+    ],
+    "Source Entity": [
+      "Gene Hackman"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6302",
+    "Question": "What was Robert Jenkinson, 2nd Earl of Liverpool's position when he was replaced by William Wyndham Grenville, 1st Baron of Grenville?",
+    "Answer": [
+      "Secretary of State for Foreign and Commonwealth Affairs",
+      "Leader of the House of Lords"
+    ],
+    "Source Entity": [
+      "Robert Jenkinson, 2nd Earl of Liverpool"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5822",
+    "Question": "What position did John C. Calhoun hold in Series Ordinal when he was 16?",
+    "Answer": [
+      "United States Secretary of State"
+    ],
+    "Source Entity": [
+      "John C. Calhoun"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6974",
+    "Question": "Who was Rafael Nadal's head coach starting in 1990?",
+    "Answer": [
+      "Toni Nadal"
+    ],
+    "Source Entity": [
+      "Rafael Nadal"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7317",
+    "Question": "Who was the president of Calabria on 4/29/2014?",
+    "Answer": [
+      "Giuseppe Scopelliti"
+    ],
+    "Source Entity": [
+      "Calabria"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4469",
+    "Question": "Which nomination did The simpsons receive in the year 2001?",
+    "Answer": [
+      "Primetime Emmy Award for Outstanding Animated Program",
+      "Satellite Award for Best Television Series – Musical or Comedy",
+      "Kids' Choice Award for Favorite Cartoon",
+      "Primetime Emmy Award for Outstanding Music Composition for a Series"
+    ],
+    "Source Entity": [
+      "The Simpsons"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4107",
+    "Question": "What award did David Lynch receive in 2006?",
+    "Answer": [
+      "Golden Lion"
+    ],
+    "Source Entity": [
+      "David Lynch"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8233",
+    "Question": "Who was nominated for King of the Hill in 1998?",
+    "Answer": [
+      "Primetime Emmy Award for Outstanding Animated Program",
+      "Kids' Choice Award for Favorite Cartoon"
+    ],
+    "Source Entity": [
+      "King of the Hill"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7513",
+    "Question": "What position did Thomas Babington Macaulay, 1st Baron Macaulay hold until 1934-12-29?",
+    "Answer": [
+      "Member of the 11th Parliament of the United Kingdom"
+    ],
+    "Source Entity": [
+      "Thomas Babington Macaulay, 1st Baron Macaulay"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7893",
+    "Question": "What is named after Vladikavkaz since the year of 1954?",
+    "Answer": [
+      "Grigory Ordzhonikidze"
+    ],
+    "Source Entity": [
+      "Vladikavkaz"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5924",
+    "Question": "what is the determination method of Genome-wide genetic association study in amyotrophic lateral sclerosis?",
+    "Answer": [
+      "TBXAS1",
+      "SELL",
+      "MASP1",
+      "ATXN1",
+      "EPB41",
+      "TRPM8",
+      "ANK3",
+      "ATP2B2",
+      "CTNND2",
+      "DACH1",
+      "DPP6",
+      "ERBB4",
+      "HOXD10",
+      "IFRD1",
+      "ITGA9",
+      "ITPR2",
+      "LAMA2",
+      "LAMA3",
+      "LDHC",
+      "NFATC2",
+      "CNOT2",
+      "PCSK5",
+      "PDGFRL",
+      "PTPRF",
+      "ST3GAL3",
+      "TFAP2A",
+      "SLC25A12",
+      "INPP4B",
+      "ARHGEF2",
+      "B4GALT6",
+      "NRXN3",
+      "ABCG1",
+      "RGS6",
+      "KIAA0513",
+      "RBM19",
+      "KCNMB2",
+      "PROCR",
+      "OLFM4",
+      "TSPAN9",
+      "MRAS",
+      "KIFAP3",
+      "UNC13A",
+      "NFASC",
+      "NEDD4L",
+      "ZFYVE26",
+      "ZFP64",
+      "ANKS1B",
+      "SUSD1",
+      "CALN1",
+      "LRRC8C",
+      "NT5C1A",
+      "ABCC12",
+      "TMEM132B",
+      "ARAP2",
+      "CPNE4",
+      "CHODL",
+      "MACROD2",
+      "ANKRD29",
+      "CNTN4",
+      "SYNPO2",
+      "SLC39A11",
+      "ANXA3"
+    ],
+    "Source Entity": [
+      "amyotrophic lateral sclerosis"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8582",
+    "Question": "For what Maria Sharapova was nominated in the year 2007?",
+    "Answer": [
+      "Best Female Tennis Player ESPY Award",
+      "Laureus World Sports Award for Sportswoman of the Year"
+    ],
+    "Source Entity": [
+      "Maria Sharapova"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8918",
+    "Question": "who was Colin Firth's partner as at 1989-1-1?",
+    "Answer": [
+      "Meg Tilly"
+    ],
+    "Source Entity": [
+      "Colin Firth"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7841",
+    "Question": "What is the country of Kinshasa since 1960-6-30?",
+    "Answer": [
+      "Republic of the Congo"
+    ],
+    "Source Entity": [
+      "Kinshasa"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3982",
+    "Question": "What is the administrative entity of Corsica since January first 2018?",
+    "Answer": [
+      "Haute-Corse",
+      "Corse-du-Sud"
+    ],
+    "Source Entity": [
+      "Corsica"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8877",
+    "Question": "What was Raiders of the Lost Ark nominated for at the 54th Academy Awards?",
+    "Answer": [
+      "Academy Award for Best Picture",
+      "Academy Award for Best Director",
+      "Academy Award for Best Cinematography",
+      "Academy Award for Best Production Design",
+      "Academy Award for Best Film Editing",
+      "Academy Award for Best Visual Effects",
+      "Academy Award for Best Original Score",
+      "Academy Award for Best Sound Mixing"
+    ],
+    "Source Entity": [
+      "Raiders of the Lost Ark"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6587",
+    "Question": "What award was received by Machester United F.C. in 2000?",
+    "Answer": [
+      "Laureus World Sports Award for Team of the Year"
+    ],
+    "Source Entity": [
+      "Manchester United F.C."
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7913",
+    "Question": "Who is the spouse of Ted Kennedy at the time of 2009-1-1?",
+    "Answer": [
+      "Victoria Reggie Kennedy"
+    ],
+    "Source Entity": [
+      "Ted Kennedy"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5227",
+    "Question": "What is the academic major and degree of Bengt Holmstrom's?",
+    "Answer": [
+      "Master of Science"
+    ],
+    "Source Entity": [
+      "Bengt Holmström"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5202",
+    "Question": "What head of government of Cape Town started 05-12-2009?",
+    "Answer": [
+      "Dan Plato"
+    ],
+    "Source Entity": [
+      "City of Cape Town"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8244",
+    "Question": "Who was Alfred L. Kroeber employed by until 1945?",
+    "Answer": [
+      "University of California, Berkeley"
+    ],
+    "Source Entity": [
+      "Alfred L. Kroeber"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6852",
+    "Question": "What award did Billy Joel receive on January 1st, 2002?",
+    "Answer": [
+      "MusiCares Person of the Year"
+    ],
+    "Source Entity": [
+      "Billy Joel"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5946",
+    "Question": "What position did Oliver Cromwell leave in 1649?",
+    "Answer": [
+      "Member of Parliament in the Parliament of England"
+    ],
+    "Source Entity": [
+      "Oliver Cromwell"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4090",
+    "Question": "Who became a student of Charles Le Brun in 1633 ?",
+    "Answer": [
+      "Simon Vouet"
+    ],
+    "Source Entity": [
+      "Charles Le Brun"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5015",
+    "Question": "What award did Elia Kazan receive in the 27th Academy Awards?",
+    "Answer": [
+      "Academy Award for Best Director"
+    ],
+    "Source Entity": [
+      "Elia Kazan"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5871",
+    "Question": "What is the work location of Rembrandt where the end time is 1625-1-1?",
+    "Answer": [
+      "Amsterdam"
+    ],
+    "Source Entity": [
+      "Rembrandt"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6409",
+    "Question": "What is the position of Goh Chok Tong in the 13th Parliament of Singapore?",
+    "Answer": [
+      "Member of the Parliament of Singapore"
+    ],
+    "Source Entity": [
+      "Goh Chok Tong"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6155",
+    "Question": "What was Pasha Angelina awarded in the year 1947?",
+    "Answer": [
+      "Order of Lenin",
+      "\"Hammer and Sickle\" gold medal",
+      "Hero of Socialist Labour"
+    ],
+    "Source Entity": [
+      "Pasha Angelina"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5861",
+    "Question": "What was Dustin Lance Black nominated for in 2008?",
+    "Answer": [
+      "Academy Award for Best Writing, Original Screenplay",
+      "Satellite Award for Best Original Screenplay",
+      "Critics' Choice Movie Award for Best Original and Adapted Screenplay"
+    ],
+    "Source Entity": [
+      "Dustin Lance Black"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5951",
+    "Question": "What award was received by Carl Orff in 1981",
+    "Answer": [
+      "Bavarian Maximilian Order for Science and Art"
+    ],
+    "Source Entity": [
+      "Carl Orff"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8408",
+    "Question": "Where was Lujo Brentano a student of Johann von Helferich?",
+    "Answer": [
+      "University of Göttingen"
+    ],
+    "Source Entity": [
+      "Lujo Brentano"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7868",
+    "Question": "What was the position held by Xerxes that is end cause was attacked?",
+    "Answer": [
+      "King of the Kings"
+    ],
+    "Source Entity": [
+      "Xerxes"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7483",
+    "Question": "What is the position held by Lyndon B. Johnson by replacing Richard Nixon?",
+    "Answer": [
+      "Vice President of the United States"
+    ],
+    "Source Entity": [
+      "Lyndon B. Johnson"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6331",
+    "Question": "For what event did Kevin Kuske receive a silver medal during the Olympics?",
+    "Answer": [
+      "Bobsleigh at the 2010 Winter Olympics – Four-man"
+    ],
+    "Source Entity": [
+      "Kevin Kuske"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8358",
+    "Question": "Who was the spouse of Rita Hayworth in 1953?",
+    "Answer": [
+      "Dick Haymes"
+    ],
+    "Source Entity": [
+      "Rita Hayworth"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7776",
+    "Question": "What award did John Bardeen receive on January 1, 1971?",
+    "Answer": [
+      "IEEE Medal of Honor"
+    ],
+    "Source Entity": [
+      "John Bardeen"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4330",
+    "Question": "Who was Erich Maria Remarque's spouse from 1925-0-0 onward?",
+    "Answer": [],
+    "Source Entity": [
+      "Erich Maria Remarque"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7346",
+    "Question": "What award did Konrad Adenauer receive on 1953-12-31?",
+    "Answer": [
+      "Knight Grand Cross of the Order of Merit of the Italian Republic"
+    ],
+    "Source Entity": [
+      "Konrad Adenauer"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5674",
+    "Question": "What position did Aaron Burr hold in which he was later replaced by Philip John Schuyler?",
+    "Answer": [
+      "United States senator"
+    ],
+    "Source Entity": [
+      "Aaron Burr"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6218",
+    "Question": "Who did Elizabeth Cady Stanton marry on May 1,1840?",
+    "Answer": [
+      "Henry Brewster Stanton"
+    ],
+    "Source Entity": [
+      "Elizabeth Cady Stanton"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5712",
+    "Question": "For what was Anne V. Coates in nomination, for her work in Lawrence of Arabia?",
+    "Answer": [
+      "Academy Award for Best Film Editing"
+    ],
+    "Source Entity": [
+      "Anne V. Coates"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7865",
+    "Question": "What award did Peter Jackson receive for his work, \"The Lord of the Rings: The Return of the King\"?",
+    "Answer": [
+      "Golden Globe Award for Best Motion Picture – Drama",
+      "Academy Award for Best Picture",
+      "Academy Award for Best Director",
+      "Academy Award for Best Writing, Adapted Screenplay",
+      "Australian Film Institute Award for Best Foreign Film",
+      "Golden Globe Award for Best Director",
+      "BAFTA Award for Best Adapted Screenplay"
+    ],
+    "Source Entity": [
+      "Peter Jackson"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8363",
+    "Question": "What award did Georges Lemaitre receive in 1934-1-1?",
+    "Answer": [
+      "Francqui Prize",
+      "Mendel Medal"
+    ],
+    "Source Entity": [
+      "Georges Lemaître"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3763",
+    "Question": "How long was Alessandro Rosa Vieira a member of the sports team in 2005?",
+    "Answer": [
+      "São Paulo F.C.",
+      "Associação Desportiva Jaraguá"
+    ],
+    "Source Entity": [
+      "Alessandro Rosa Vieira"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3821",
+    "Question": "What award did Aleksandr Solzhenitsyn receive in 1998 ?",
+    "Answer": [
+      "Lomonosov Gold Medal"
+    ],
+    "Source Entity": [
+      "Aleksandr Solzhenitsyn"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3939",
+    "Question": "What award was received by Mary Ainsworth  in 1989?",
+    "Answer": [
+      "William James Fellow Award",
+      "APA Award for Distinguished Scientific Contributions to Psychology"
+    ],
+    "Source Entity": [
+      "Mary Ainsworth"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-9296",
+    "Question": "What award did Lewis Milestone get for All Quiet on the Western Front?",
+    "Answer": [
+      "Academy Award for Best Director"
+    ],
+    "Source Entity": [
+      "Lewis Milestone"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6762",
+    "Question": "What is { award received } from { George Carlin } that is { time point } is { 1993 - 0 - 0 }?",
+    "Answer": [
+      "Grammy Award for Best Comedy Album"
+    ],
+    "Source Entity": [
+      "George Carlin"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7570",
+    "Question": "Who was the last spouse for Samuel Hahnemann in the year 1830?",
+    "Answer": [
+      "Johanne Henriette Leopoldine Küchler"
+    ],
+    "Source Entity": [
+      "Samuel Hahnemann"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4650",
+    "Question": "What award did Ayana Hirsi Ali receive in 2008?",
+    "Answer": [
+      "Richard Dawkins Award",
+      "Anisfield-Wolf Book Awards"
+    ],
+    "Source Entity": [
+      "Ayaan Hirsi Ali"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4599",
+    "Question": "What was Leonhard Euler a member of in 1741?",
+    "Answer": [
+      "Royal Prussian Academy of Sciences"
+    ],
+    "Source Entity": [
+      "Leonhard Euler"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6162",
+    "Question": "What award did Werner Herzog recieve in 1979?",
+    "Answer": [
+      "Rauriser Literaturpreis"
+    ],
+    "Source Entity": [
+      "Werner Herzog"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3941",
+    "Question": "when did alfred brendel received award at the time of 1992-1-1?",
+    "Answer": [
+      "Royal Philharmonic Society Gold Medal",
+      "Hans von Bülow Medal"
+    ],
+    "Source Entity": [
+      "Alfred Brendel"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7652",
+    "Question": "What is the position held by Martín Vizcarra who replaces Marisol Espinoza?",
+    "Answer": [
+      "Vice President of Peru"
+    ],
+    "Source Entity": [
+      "Martín Vizcarra"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6720",
+    "Question": "who is the spouse of Pierre-Simon Laplace that was married in Saint-Sulpice?",
+    "Answer": [
+      "Marie Anne Charlotte de Courty de Romange"
+    ],
+    "Source Entity": [
+      "Pierre-Simon Laplace"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4919",
+    "Question": "Name the award received by Aleksandr Vasilevsky in 1946.",
+    "Answer": [
+      "Order of the Cross of Grunwald, 1st class",
+      "Order of the People's Liberation",
+      "Order of the Partisan Star"
+    ],
+    "Source Entity": [
+      "Aleksandr Vasilevsky"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5371",
+    "Question": "What was John Williams nominated for in the 60th Academy Awards?",
+    "Answer": [
+      "Academy Award for Best Original Score"
+    ],
+    "Source Entity": [
+      "John Williams"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-9086",
+    "Question": "What movement did Karl Friedrich Schinkel become a member of in 1835?",
+    "Answer": [
+      "Royal Institute of British Architects"
+    ],
+    "Source Entity": [
+      "Karl Friedrich Schinkel"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5404",
+    "Question": "What was the position held by Alec Douglas-Home that replaces  Michael Stewart, Baron Stewart of Fulham?",
+    "Answer": [
+      "Secretary of State for Foreign and Commonwealth Affairs"
+    ],
+    "Source Entity": [
+      "Alec Douglas-Home"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8007",
+    "Question": "What was educated at G.E.Moore that starting time is 1882-0-0?",
+    "Answer": [
+      "Dulwich College"
+    ],
+    "Source Entity": [
+      "G. E. Moore"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5767",
+    "Question": "Was the award received by Tran Anh Hung in thea year 1995-0-0?",
+    "Answer": [
+      "Golden Lion"
+    ],
+    "Source Entity": [
+      "Tran Anh Hung"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4532",
+    "Question": "Did Jayne Mansfield portray Bettie Page?",
+    "Answer": [
+      "Playboy Playmate"
+    ],
+    "Source Entity": [
+      "Jayne Mansfield"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7677",
+    "Question": "What position did Atal Bihari Vajpayee hold until being replaced by P. V. Narasimha Rao in Telugu?",
+    "Answer": [
+      "Prime Minister of India"
+    ],
+    "Source Entity": [
+      "Atal Bihari Vajpayee"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8978",
+    "Question": "In what Olympic event did Grant Hacket win the silver medal?",
+    "Answer": [
+      "Swimming at the 2004 Summer Olympics – Men's 4 × 200 metre freestyle relay",
+      "Swimming at the 2008 Summer Olympics – Men's 1500 metre freestyle",
+      "Swimming at the 2004 Summer Olympics – Men's 400 metre freestyle",
+      "2004 Summer Olympics",
+      "2008 Summer Olympics"
+    ],
+    "Source Entity": [
+      "Grant Hackett"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6557",
+    "Question": "What position did William Cavendish-Bentinck, 3rd Duke of Portland hold on March, 31 1807?",
+    "Answer": [
+      "Prime Minister of the United Kingdom"
+    ],
+    "Source Entity": [
+      "William Cavendish-Bentinck, 3rd Duke of Portland"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6332",
+    "Question": "Who did Andriyan Nikolayev divorce in 1982?",
+    "Answer": [
+      "Valentina Tereshkova"
+    ],
+    "Source Entity": [
+      "Andriyan Nikolayev"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4520",
+    "Question": "What team did Mágico González play for in 1976?",
+    "Answer": [
+      "El Salvador national football team",
+      "Independiente FC"
+    ],
+    "Source Entity": [
+      "Mágico González"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7977",
+    "Question": "What genetic association did the Genome-wide association study for melanoma?",
+    "Answer": [
+      "TYR",
+      "ATM",
+      "FTO",
+      "PARP1",
+      "DOCK3",
+      "MX2",
+      "PLA2G6",
+      "ANXA9",
+      "SLC45A2",
+      "TET2",
+      "EYS"
+    ],
+    "Source Entity": [
+      "melanoma"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-9103",
+    "Question": "who is partner of Amy Winehouse that has start time is 2010-1-1 ?",
+    "Answer": [
+      "Reg Traviss"
+    ],
+    "Source Entity": [
+      "Amy Winehouse"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-9354",
+    "Question": "The nominee of Albert Arnold Gillespie from the Wizard of OZ was nominated for what?",
+    "Answer": [
+      "Academy Award for Best Special Effects"
+    ],
+    "Source Entity": [
+      "The Wizard of Oz"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6948",
+    "Question": "What time zone is Khmelnytsky Oblast located that validated the daylight saving time?",
+    "Answer": [
+      "UTC+03:00"
+    ],
+    "Source Entity": [
+      "Khmelnytsky Oblast"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-9322",
+    "Question": "What was Arthur Penn nominated for at the 12th Annual Tony Awards?",
+    "Answer": [
+      "Tony Award for Best Director"
+    ],
+    "Source Entity": [
+      "Arthur Penn"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4607",
+    "Question": "Where did Margarita Simonyan major in journalism?",
+    "Answer": [
+      "Kuban State University"
+    ],
+    "Source Entity": [
+      "Margarita Simonyan"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5355",
+    "Question": "Where did Christiane Amanpour receive their journalism degree?",
+    "Answer": [
+      "University of Rhode Island"
+    ],
+    "Source Entity": [
+      "Christiane Amanpour"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3974",
+    "Question": "Who became the chief executive officer of Advanced Micro Devices in 2014?",
+    "Answer": [
+      "Lisa Su"
+    ],
+    "Source Entity": [
+      "Advanced Micro Devices"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6408",
+    "Question": "Michael Poniatowski replaced Jacques Chirac in what position?",
+    "Answer": [
+      "Minister of the Interior"
+    ],
+    "Source Entity": [
+      "Jacques Chirac"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6699",
+    "Question": "What is the position of Benedict XVI that replaces John Paul II?",
+    "Answer": [
+      "pope"
+    ],
+    "Source Entity": [
+      "Benedict XVI"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8661",
+    "Question": "At what university did Jacques Barzun get the doctorate of philosophy?",
+    "Answer": [
+      "Columbia University"
+    ],
+    "Source Entity": [
+      "Jacques Barzun"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6245",
+    "Question": "What position did Ferdinand Marcos hold when he was replaced by Corazon Aquino?",
+    "Answer": [
+      "President of the Philippines"
+    ],
+    "Source Entity": [
+      "Ferdinand Marcos"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6956",
+    "Question": "What is the family name of Louise Élisabeth Vigée Le Brun who was born at 1775-8-7?",
+    "Answer": [
+      "Le Brun"
+    ],
+    "Source Entity": [
+      "Louise Élisabeth Vigée Le Brun"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3668",
+    "Question": "What was Julie Harris nominated for in 1976?",
+    "Answer": [
+      "Drama Desk Award for Unique Theatrical Experience"
+    ],
+    "Source Entity": [
+      "Julie Harris"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6778",
+    "Question": "What award did David Geffen receive in the year 1990?",
+    "Answer": [
+      "Daytime Emmy Award for Outstanding Children's Animated Program"
+    ],
+    "Source Entity": [
+      "David Geffen"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6340",
+    "Question": "What role was Andrew Lloyd Webber nominated for in 2016-0-0?",
+    "Answer": [
+      "Tony Award for Best Original Score"
+    ],
+    "Source Entity": [
+      "Andrew Lloyd Webber"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7064",
+    "Question": "Later replaced by Paul Valéry, what position did Anatole France hold?",
+    "Answer": [
+      "president"
+    ],
+    "Source Entity": [
+      "Anatole France"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6317",
+    "Question": "Which platforms were Grand Theft Auto V for that were published in 9/17/2013?",
+    "Answer": [
+      "PlayStation 3",
+      "Xbox 360"
+    ],
+    "Source Entity": [
+      "Grand Theft Auto V"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8813",
+    "Question": "What sport did Natalie Coughlin receive a bronze medal for in the Olympics?",
+    "Answer": [
+      "Swimming at the 2008 Summer Olympics – Women's 100 metre freestyle",
+      "Swimming at the 2008 Summer Olympics – Women's 4 × 200 metre freestyle relay",
+      "Swimming at the 2012 Summer Olympics – Women's 4 × 100 metre freestyle relay",
+      "Swimming at the 2004 Summer Olympics – Women's 100 metre freestyle",
+      "Swimming at the 2008 Summer Olympics – Women's 200 metre individual medley",
+      "2004 Summer Olympics",
+      "2008 Summer Olympics",
+      "2012 Summer Olympics"
+    ],
+    "Source Entity": [
+      "Natalie Coughlin"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-9308",
+    "Question": "Simón Bolívar succeeded himself as the holder of what position?",
+    "Answer": [
+      "President of Venezuela"
+    ],
+    "Source Entity": [
+      "Simón Bolívar"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6894",
+    "Question": "Who played Naomi in How I Met Your Mother?",
+    "Answer": [
+      "Katie Holmes"
+    ],
+    "Source Entity": [
+      "How I Met Your Mother"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7685",
+    "Question": "What position did Nikos Kazantzakis hold on January 11, 1946?",
+    "Answer": [
+      "Minister without portfolio of Greece"
+    ],
+    "Source Entity": [
+      "Nikos Kazantzakis"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4364",
+    "Question": "What award did Irenäus Eibl-Eibesfeldt receive on January 1st, 1988?",
+    "Answer": [
+      "Philip Morris Research Prize"
+    ],
+    "Source Entity": [
+      "Irenäus Eibl-Eibesfeldt"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5562",
+    "Question": "Who was the spose of Yuri Andropov in 1984?",
+    "Answer": [
+      "Tatyana Andropova"
+    ],
+    "Source Entity": [
+      "Yuri Andropov"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6227",
+    "Question": "In what part of the Netherlands is the Erasmus University Rotterdam headquartered?",
+    "Answer": [
+      "Rotterdam"
+    ],
+    "Source Entity": [
+      "Erasmus University Rotterdam"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-9405",
+    "Question": "What is Beyoncé awarded for her work Obsessed?",
+    "Answer": [
+      "MTV Movie Award for Best Fight"
+    ],
+    "Source Entity": [
+      "Beyoncé"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5091",
+    "Question": "What was Bewitched nominated for in 1967?",
+    "Answer": [
+      "Primetime Emmy Award for Outstanding Directing for a Comedy Series",
+      "Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series",
+      "Primetime Emmy Award for Outstanding Comedy Series",
+      "Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series"
+    ],
+    "Source Entity": [
+      "Bewitched"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5816",
+    "Question": "What position did Frank B. Kellogg hold starting on 1925-3-5 ?",
+    "Answer": [
+      "United States Secretary of State"
+    ],
+    "Source Entity": [
+      "Frank B. Kellogg"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6257",
+    "Question": "What award did Barbara McClintock receive in December of 1981?",
+    "Answer": [
+      "MacArthur Fellows Program",
+      "Thomas Hunt Morgan Medal",
+      "Wolf Prize in Medicine",
+      "Albert Lasker Award for Basic Medical Research"
+    ],
+    "Source Entity": [
+      "Barbara McClintock"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8243",
+    "Question": "What is Bernhard Schlink's notable work from the year 2000?",
+    "Answer": [
+      "Q1644248"
+    ],
+    "Source Entity": [
+      "Bernhard Schlink"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8071",
+    "Question": "What is { Berlin's twinned administrative body } that is { start time } is { 1992 - 8 - 28 }?",
+    "Answer": [
+      "Budapest",
+      "Brussels"
+    ],
+    "Source Entity": [
+      "Berlin"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7382",
+    "Question": "What position did George II of Great Britain hold before he was replaced by George III of Great Britain?",
+    "Answer": [
+      "monarch",
+      "duke",
+      "prince-elector"
+    ],
+    "Source Entity": [
+      "George III of Great Britain"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-9297",
+    "Question": "Which team did Wasim Akram play for in 2003?",
+    "Answer": [
+      "Hampshire County Cricket Club"
+    ],
+    "Source Entity": [
+      "Wasim Akram"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8038",
+    "Question": "Who did Frida Kahlo marry on November 11, 1939?",
+    "Answer": [
+      "Diego Rivera"
+    ],
+    "Source Entity": [
+      "Frida Kahlo"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6737",
+    "Question": "What award did Vesto Slipher receive in 1932?",
+    "Answer": [
+      "Henry Draper Medal"
+    ],
+    "Source Entity": [
+      "Vesto Slipher"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3785",
+    "Question": "What country was Trieste in in 1975?",
+    "Answer": [
+      "Italy"
+    ],
+    "Source Entity": [
+      "Trieste"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8808",
+    "Question": "What award did Roman Polanski receive for playing Michael Haneke?",
+    "Answer": [
+      "César Award for Best Director"
+    ],
+    "Source Entity": [
+      "Roman Polanski"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4894",
+    "Question": "Stece Nash was  member of which sports team until 2012-0-0?",
+    "Answer": [
+      "Phoenix Suns"
+    ],
+    "Source Entity": [
+      "Steve Nash"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5962",
+    "Question": "Where did Julianne Moore receive her academic degree for Bachelor of Fine Arts?",
+    "Answer": [
+      "Boston University"
+    ],
+    "Source Entity": [
+      "Julianne Moore"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6805",
+    "Question": "Who did Katy Perry get married to on 2010-10-23?",
+    "Answer": [
+      "Russell Brand"
+    ],
+    "Source Entity": [
+      "Katy Perry"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4125",
+    "Question": "Provence was part of what country in the year 1790?",
+    "Answer": [
+      "County of Provence"
+    ],
+    "Source Entity": [
+      "Provence"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5044",
+    "Question": "Which award did Martin Bruestle win for the \"The Sopranos?\"",
+    "Answer": [
+      "Primetime Emmy Award for Outstanding Drama Series"
+    ],
+    "Source Entity": [
+      "The Sopranos"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4905",
+    "Question": "Which part of Saratov ended in 1936-12-4?",
+    "Answer": [
+      "Saratov Krai"
+    ],
+    "Source Entity": [
+      "Saratov"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8080",
+    "Question": "What position did Sitiveni Rabuka hold until January 1, 2001?",
+    "Answer": [
+      "Chairman of the Great Council of Chiefs"
+    ],
+    "Source Entity": [
+      "Sitiveni Rabuka"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7284",
+    "Question": "What was Edith Evans nominated for in The Chalk Garden?",
+    "Answer": [
+      "Academy Award for Best Supporting Actress"
+    ],
+    "Source Entity": [
+      "Edith Evans"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6284",
+    "Question": "David Hilbert was a member of what in 1932?",
+    "Answer": [
+      "German Academy of Sciences Leopoldina"
+    ],
+    "Source Entity": [
+      "David Hilbert"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4972",
+    "Question": "Shakira recieved this award on Feb. 8, 2006?",
+    "Answer": [
+      "Latin Grammy Awards of 2006",
+      "Grammy Award for Best Latin Pop, Rock or Urban Album",
+      "Latin Grammy Award for Album of the Year",
+      "Latin Grammy Award for Best Female Pop Vocal Album",
+      "Latin Grammy Award for Song of the Year"
+    ],
+    "Source Entity": [
+      "Shakira"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7304",
+    "Question": "What was Cecil Beaton nominated for in 1960?",
+    "Answer": [
+      "Tony Award for Best Scenic Design in a Musical"
+    ],
+    "Source Entity": [
+      "Cecil Beaton"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3709",
+    "Question": "For what did Steve Buscemi get nominated for for his work on Boardwalk Empire?",
+    "Answer": [
+      "TCA Award for Individual Achievement in Drama",
+      "Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Drama Series",
+      "Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Drama Series",
+      "Satellite Award for Best Actor – Television Series Drama",
+      "Primetime Emmy Award for Outstanding Lead Actor in a Drama Series"
+    ],
+    "Source Entity": [
+      "Steve Buscemi"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8291",
+    "Question": "what is sessue hayakawa nominated for in the bridge on the river kwai?",
+    "Answer": [
+      "Academy Award for Best Supporting Actor"
+    ],
+    "Source Entity": [
+      "The Bridge on the River Kwai"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7648",
+    "Question": "Is OX the safety classification and labelling of nitrogen trifluoride for NFPA Special?",
+    "Answer": [
+      "NFPA 704: Standard System for the Identification of the Hazards of Materials for Emergency Response"
+    ],
+    "Source Entity": [
+      "nitrogen trifluoride"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8135",
+    "Question": "What is { significant event } of { Cristina Kirchner } that is { medical condition } { thyroid cancer }?",
+    "Answer": [
+      "medical malpractice"
+    ],
+    "Source Entity": [
+      "Cristina Kirchner"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7837",
+    "Question": "Did Gilda Radner  married to his wife in 1982-1-1?",
+    "Answer": [
+      "G. E. Smith"
+    ],
+    "Source Entity": [
+      "Gilda Radner"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4980",
+    "Question": "Where in Egypt did Al-Shafi'i die?",
+    "Answer": [
+      "Fustat"
+    ],
+    "Source Entity": [
+      "Al-Shafi‘i"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4705",
+    "Question": "What award did Gai Xingjian receive in the year 2000?",
+    "Answer": [
+      "Nobel Prize in Literature"
+    ],
+    "Source Entity": [
+      "Gao Xingjian"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3704",
+    "Question": "What country is Saint Martin in?",
+    "Answer": [
+      "France"
+    ],
+    "Source Entity": [
+      "Saint Martin"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8895",
+    "Question": "Who is the spouse of Cary Grant?",
+    "Answer": [
+      "Barbara Hutton"
+    ],
+    "Source Entity": [
+      "Cary Grant"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3566",
+    "Question": "What position did Theodore Roosevelt hold after William McKinley?",
+    "Answer": [
+      "President of the United States"
+    ],
+    "Source Entity": [
+      "Theodore Roosevelt"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7065",
+    "Question": "For what position was Elihu Root replaced by Russell Alexander Alger?",
+    "Answer": [
+      "United States Secretary of War"
+    ],
+    "Source Entity": [
+      "Elihu Root"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5713",
+    "Question": "Whose incarnation was Voltaire according to Jean-Baptiste Fiard?",
+    "Answer": [
+      "demon"
+    ],
+    "Source Entity": [
+      "Voltaire"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7520",
+    "Question": "who is nominated for vmiklos Rozsa that for work is quo vadis?",
+    "Answer": [
+      "Academy Award for Best Original Dramatic or Comedy Score"
+    ],
+    "Source Entity": [
+      "Miklós Rózsa"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5470",
+    "Question": "Who was Jonathan Pryce's partner beginning in 1974?",
+    "Answer": [
+      "Kate Fahy"
+    ],
+    "Source Entity": [
+      "Jonathan Pryce"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5204",
+    "Question": "What was Gregory Peck nominated for at the 18th Academy Awards?",
+    "Answer": [
+      "Academy Award for Best Actor"
+    ],
+    "Source Entity": [
+      "Gregory Peck"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4244",
+    "Question": "What award was Philip Seymour Hoffman nominated for at the 80th Academy Awards?",
+    "Answer": [
+      "Academy Award for Best Supporting Actor"
+    ],
+    "Source Entity": [
+      "Philip Seymour Hoffman"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8137",
+    "Question": "Where did Pierre Puvis de Chavannes work in the year 1948?",
+    "Answer": [
+      "Italy",
+      "Paris"
+    ],
+    "Source Entity": [
+      "Pierre Puvis de Chavannes"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6466",
+    "Question": "Hubble Space Telescope was named after what in the year 1983?",
+    "Answer": [
+      "Edwin Hubble"
+    ],
+    "Source Entity": [
+      "Hubble Space Telescope"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8639",
+    "Question": "What was Jay Blackton nominated for in Oklahoma!?",
+    "Answer": [
+      "Academy Award for Best Original Musical Score"
+    ],
+    "Source Entity": [
+      "Oklahoma!"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4150",
+    "Question": "Who is divorced by Ryan Reynolds in 2011?",
+    "Answer": [
+      "Scarlett Johansson"
+    ],
+    "Source Entity": [
+      "Ryan Reynolds"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4797",
+    "Question": "What member of Oman started in 1995?",
+    "Answer": [
+      "International Centre for Settlement of Investment Disputes"
+    ],
+    "Source Entity": [
+      "Oman"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3826",
+    "Question": "What position did Arthur Balfour hold when he replaced Edward Grey, 1st Viscount Grey of Fallodon?",
+    "Answer": [
+      "Secretary of State for Foreign and Commonwealth Affairs"
+    ],
+    "Source Entity": [
+      "Arthur Balfour"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8235",
+    "Question": "did vladimir putin perticipate in 1999-12-31?",
+    "Answer": [
+      "New Year's address to the nation"
+    ],
+    "Source Entity": [
+      "Vladimir Putin"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6780",
+    "Question": "What is nominated for Roberto Benigni at 71st Academy Awards?",
+    "Answer": [
+      "Academy Award for Best Director",
+      "Academy Award for Best Actor",
+      "Academy Award for Best Writing, Original Screenplay"
+    ],
+    "Source Entity": [
+      "Roberto Benigni"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7701",
+    "Question": "when did the apartment receive the 33rd academy awards?",
+    "Answer": [
+      "Academy Award for Best Picture",
+      "Academy Award for Best Director",
+      "Academy Award for Best Art Direction, Black and White",
+      "Academy Award for Best Film Editing",
+      "Academy Award for Best Writing, Original Screenplay"
+    ],
+    "Source Entity": [
+      "The Apartment"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4729",
+    "Question": "Who did Raquel Welch marry in 1980?",
+    "Answer": [
+      "André Weinfeld"
+    ],
+    "Source Entity": [
+      "Raquel Welch"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5442",
+    "Question": "For what award was Jessica Lange nominated for her work in the movie Country?",
+    "Answer": [
+      "Academy Award for Best Actress"
+    ],
+    "Source Entity": [
+      "Jessica Lange"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7374",
+    "Question": "What is the diplomacy of Malawi?",
+    "Answer": [
+      "Zambia"
+    ],
+    "Source Entity": [
+      "Malawi"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8483",
+    "Question": "What has been Kanagawa Prefecture's sister body since 1990-4-24?",
+    "Answer": [
+      "Gold Coast",
+      "Gyeonggi Province"
+    ],
+    "Source Entity": [
+      "Kanagawa Prefecture"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7160",
+    "Question": "What was first taught at Vsevolod Meyerhold in the year 1896?",
+    "Answer": [
+      "Russian University of Theatre Arts"
+    ],
+    "Source Entity": [
+      "Vsevolod Meyerhold"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4511",
+    "Question": "What position did Mitt Romney begin in February 2003?",
+    "Answer": [
+      "Governor of Massachusetts"
+    ],
+    "Source Entity": [
+      "Mitt Romney"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7806",
+    "Question": "What award did Lars von Trier receive in the year 1996?",
+    "Answer": [
+      "Q47012070",
+      "European Film Award for Best Film"
+    ],
+    "Source Entity": [
+      "Lars von Trier"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6023",
+    "Question": "What award was Mahershalalhashbaz Ali nominated for at the 89th Academy Awards?",
+    "Answer": [
+      "Academy Award for Best Supporting Actor"
+    ],
+    "Source Entity": [
+      "Mahershala Ali"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7884",
+    "Question": "What was Ilya Prigogine nominated for in 1958?",
+    "Answer": [
+      "Nobel Prize in Physics"
+    ],
+    "Source Entity": [
+      "Ilya Prigogine"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7238",
+    "Question": "What position did John Walter hold in 1841?",
+    "Answer": [
+      "Member of the 13th Parliament of the United Kingdom"
+    ],
+    "Source Entity": [
+      "John Walter"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5932",
+    "Question": "What award was Alfred Hitchcock nominated for because of his work on Rebecca?",
+    "Answer": [
+      "Academy Award for Best Director"
+    ],
+    "Source Entity": [
+      "Alfred Hitchcock"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6961",
+    "Question": "What award did Valery Chkalov receive on May 5, 1935?",
+    "Answer": [
+      "Order of Lenin"
+    ],
+    "Source Entity": [
+      "Valery Chkalov"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3710",
+    "Question": "Who was the chairperson of the Asian Development Bank for the year ending in 1993?",
+    "Answer": [
+      "Kimimasa Tarumizu"
+    ],
+    "Source Entity": [
+      "Asian Development Bank"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5485",
+    "Question": "When does Corfu have daylight saving time?",
+    "Answer": [
+      "UTC+03:00"
+    ],
+    "Source Entity": [
+      "Corfu"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7571",
+    "Question": "Did Gotthold Ephrain Lessing obtain the Master's degree?",
+    "Answer": [
+      "University of Halle-Wittenberg"
+    ],
+    "Source Entity": [
+      "Gotthold Ephraim Lessing"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5537",
+    "Question": "What award did Sheryl Sandberg receive?",
+    "Answer": [
+      "Financial Times and McKinsey Business Book of the Year Award"
+    ],
+    "Source Entity": [
+      "Sheryl Sandberg"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-9286",
+    "Question": "did chernihiv oblast start administrative work 199-8-24?",
+    "Answer": [
+      "Ukraine"
+    ],
+    "Source Entity": [
+      "Chernihiv Oblast"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4273",
+    "Question": "What award did James Earl Jones receive in 1969?",
+    "Answer": [
+      "Tony Award for Best Actor in a Play"
+    ],
+    "Source Entity": [
+      "James Earl Jones"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6319",
+    "Question": "What country did Lviv live in in 1348-0-0?",
+    "Answer": [
+      "Kingdom of Galicia–Volhynia"
+    ],
+    "Source Entity": [
+      "Lviv"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6843",
+    "Question": "According to the All India Trinamool Congress, what political party serves as the head of government for West Bengal?",
+    "Answer": [
+      "Mamata Banerjee"
+    ],
+    "Source Entity": [
+      "West Bengal"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7580",
+    "Question": "What was Matthew McConaughey nominated for in 2014?",
+    "Answer": [
+      "Academy Award for Best Actor"
+    ],
+    "Source Entity": [
+      "Matthew McConaughey"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-9459",
+    "Question": "What was Theodor W. Adorno nominated for on 1 January 1965?",
+    "Answer": [
+      "Nobel Prize in Literature"
+    ],
+    "Source Entity": [
+      "Theodor W. Adorno"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6878",
+    "Question": "Who is Theodor Mommsen's grandson?",
+    "Answer": [
+      "Tycho von Wilamowitz-Moellendorff"
+    ],
+    "Source Entity": [
+      "Theodor Mommsen"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7265",
+    "Question": "What award did Ivan Pavlov receive in 1900?",
+    "Answer": [
+      "Karl Ernst von Baer medal"
+    ],
+    "Source Entity": [
+      "Ivan Pavlov"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7594",
+    "Question": "What award did Nickelodeon win in 2010?",
+    "Answer": [
+      "Golden Raspberry Award for Worst Picture"
+    ],
+    "Source Entity": [
+      "Nickelodeon"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8933",
+    "Question": "Who was Carl Akeley's spouse until 1923?",
+    "Answer": [
+      "Delia Akeley"
+    ],
+    "Source Entity": [
+      "Carl Akeley"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-9394",
+    "Question": "What Dilwale Dulhania Le Jayenge award did Kajol win?",
+    "Answer": [
+      "Filmfare Award for Best Actress"
+    ],
+    "Source Entity": [
+      "Dilwale Dulhania Le Jayenge"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4386",
+    "Question": "What award was received by Igor Tamm together with Pavel Cherenkov?",
+    "Answer": [
+      "Nobel Prize in Physics"
+    ],
+    "Source Entity": [
+      "Igor Tamm"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3727",
+    "Question": "Who was Jean Seberg's spouse starting in October of 1963?",
+    "Answer": [
+      "Romain Gary"
+    ],
+    "Source Entity": [
+      "Jean Seberg"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7465",
+    "Question": "What award did Robin Williams and Christine Baranski receive together?",
+    "Answer": [
+      "Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture"
+    ],
+    "Source Entity": [
+      "Robin Williams"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-9108",
+    "Question": "What was Hideaki Anno nominated for in 2008?",
+    "Answer": [
+      "Japan Academy Prize for Animation of the Year"
+    ],
+    "Source Entity": [
+      "Hideaki Anno"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7739",
+    "Question": "What award did The River earn Vilmos Zsigmond a nomination for?",
+    "Answer": [
+      "Academy Award for Best Cinematography"
+    ],
+    "Source Entity": [
+      "Vilmos Zsigmond"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3967",
+    "Question": "Who is nominated for Lee Grant that for work is Detective Story}?",
+    "Answer": [
+      "Academy Award for Best Supporting Actress"
+    ],
+    "Source Entity": [
+      "Lee Grant"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3890",
+    "Question": "Who employed James Hansen beginning in 2003?",
+    "Answer": [
+      "Columbia University"
+    ],
+    "Source Entity": [
+      "James Hansen"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8684",
+    "Question": "What was Henry Clay position held in the year 1823?",
+    "Answer": [
+      "United States representative",
+      "speaker of the United States House of Representatives"
+    ],
+    "Source Entity": [
+      "Henry Clay"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4261",
+    "Question": "At point in time 1963-1-1, what award was received by Sin-Itiro Tomonaga?",
+    "Answer": [
+      "Lomonosov Gold Medal"
+    ],
+    "Source Entity": [
+      "Sin-Itiro Tomonaga"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7504",
+    "Question": "What is { sport team member } of { Ian Rush } that is { start time } is { 1980 - 1 - 1 }?",
+    "Answer": [
+      "Liverpool F.C.",
+      "Wales national football team"
+    ],
+    "Source Entity": [
+      "Ian Rush"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5307",
+    "Question": "Who did Louis Pasteur have as a foreign member?",
+    "Answer": [
+      "Accademia Nazionale delle Scienze detta dei XL"
+    ],
+    "Source Entity": [
+      "Louis Pasteur"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7325",
+    "Question": "What position did Edward VIII hold when he started in 1936-1-20?",
+    "Answer": [
+      "monarch",
+      "monarch of Canada",
+      "Emperor of India",
+      "monarch of the United Kingdom"
+    ],
+    "Source Entity": [
+      "Edward VIII"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4951",
+    "Question": "What position did Edgar of England succeed Eadwig in ?",
+    "Answer": [
+      "monarch of England"
+    ],
+    "Source Entity": [
+      "Eadwig"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6777",
+    "Question": "What was Luis Miguel nominated for in 1997?",
+    "Answer": [
+      "Grammy Award for Best Latin Pop Album"
+    ],
+    "Source Entity": [
+      "Luis Miguel"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3761",
+    "Question": "Who nominated from Nirvana had a point of 1992?",
+    "Answer": [
+      "MTV Video Music Award for Video of the Year",
+      "Grammy Award for Best Rock Song",
+      "MTV Video Music Award for Best New Artist",
+      "MTV Video Music Award – Viewer's Choice",
+      "MTV Video Music Award for Best Alternative Video"
+    ],
+    "Source Entity": [
+      "Nirvana"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4492",
+    "Question": "Who was the conductor of the film score in \"Fantasia\"?",
+    "Answer": [
+      "Leopold Stokowski"
+    ],
+    "Source Entity": [
+      "Fantasia"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7802",
+    "Question": "When did Nikola Tesla become a member of the Order of the White Lion?",
+    "Answer": [
+      "Serbian Academy of Sciences and Arts"
+    ],
+    "Source Entity": [
+      "Nikola Tesla"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6329",
+    "Question": "Where is the Szeged is located as an admin office at the time of 2013-1-1?",
+    "Answer": [
+      "Szeged  District"
+    ],
+    "Source Entity": [
+      "Szeged"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4209",
+    "Question": "What was Flannery O'Çonnor's notable work which was published in the year 1971?",
+    "Answer": [
+      "The Complete Stories"
+    ],
+    "Source Entity": [
+      "Flannery O'Connor"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7038",
+    "Question": "According to William Ewart Gladstone, what was the end cause of the dissolution of parliament?",
+    "Answer": [
+      "Member of the 11th Parliament of the United Kingdom",
+      "Member of the 12th Parliament of the United Kingdom",
+      "Member of the 13th Parliament of the United Kingdom",
+      "Member of the 15th Parliament of the United Kingdom",
+      "Member of the 16th Parliament of the United Kingdom",
+      "Member of the 17th Parliament of the United Kingdom",
+      "Member of the 18th Parliament of the United Kingdom",
+      "Member of the 19th Parliament of the United Kingdom",
+      "Member of the 20th Parliament of the United Kingdom",
+      "Member of the 21st Parliament of the United Kingdom",
+      "Member of the 22nd Parliament of the United Kingdom",
+      "Member of the 23rd Parliament of the United Kingdom",
+      "Member of the 24th Parliament of the United Kingdom",
+      "Member of the 25th Parliament of the United Kingdom"
+    ],
+    "Source Entity": [
+      "William Ewart Gladstone"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4108",
+    "Question": "What award did Danny Kaye receive on February 2, 1986?",
+    "Answer": [
+      "Knight of the Legion of Honour"
+    ],
+    "Source Entity": [
+      "Danny Kaye"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7430",
+    "Question": "What position did Julia Gillard hold beginning in June 24th, 2010?",
+    "Answer": [
+      "Prime Minister of Australia"
+    ],
+    "Source Entity": [
+      "Julia Gillard"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8834",
+    "Question": "What award did The Godfather Part II receive at the 47th Academy Awards?",
+    "Answer": [
+      "Academy Award for Best Picture",
+      "Academy Award for Best Director",
+      "Academy Award for Best Supporting Actor",
+      "Academy Award for Best Writing, Adapted Screenplay",
+      "Academy Award for Best Original Dramatic Score",
+      "Academy Award for Best Production Design"
+    ],
+    "Source Entity": [
+      "The Godfather Part II"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7396",
+    "Question": "What was the name of the second work published by Oscar Wilde?",
+    "Answer": [
+      "Fingal"
+    ],
+    "Source Entity": [
+      "Oscar Wilde"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8061",
+    "Question": "What is { position held } of { Pepin the Short } that is { replaced } is { Carloman I }?",
+    "Answer": [
+      "king of Franks"
+    ],
+    "Source Entity": [
+      "Pepin the Short"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4723",
+    "Question": "What award did Dan Marino receive in 1998?",
+    "Answer": [
+      "Walter Payton Man of the Year Award"
+    ],
+    "Source Entity": [
+      "Dan Marino"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-9139",
+    "Question": "what is award received of J.M. coetzee that is point in time is 1987-0-0?",
+    "Answer": [
+      "Jerusalem Prize"
+    ],
+    "Source Entity": [
+      "J. M. Coetzee"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6106",
+    "Question": "What was George Cukor nominated for at the 23rd Academy Awards?",
+    "Answer": [
+      "Academy Award for Best Director"
+    ],
+    "Source Entity": [
+      "George Cukor"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6243",
+    "Question": "Who was elected rector of Leipzig University on December 2, 1409?",
+    "Answer": [
+      "Johannes Otto von Münsterberg"
+    ],
+    "Source Entity": [
+      "Leipzig University"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3621",
+    "Question": "Which is {located in time zone} of {Slovenia} where {valid in period} is {standard time} ?",
+    "Answer": [
+      "UTC+01:00"
+    ],
+    "Source Entity": [
+      "Slovenia"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6360",
+    "Question": "Who did Napoleon marry in 1810?",
+    "Answer": [
+      "Marie Louise, Duchess of Parma"
+    ],
+    "Source Entity": [
+      "Napoleon"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6915",
+    "Question": "What started in Astana on the 26th of August 1920?",
+    "Answer": [
+      "Kirghiz Autonomous Socialist Soviet Republic"
+    ],
+    "Source Entity": [
+      "Astana"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7036",
+    "Question": "Where did Stefan Raab major in jurisprudence?",
+    "Answer": [
+      "Bielefeld University"
+    ],
+    "Source Entity": [
+      "Stefan Raab"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7035",
+    "Question": "Starting in 1953, who was the spouse of Aaron Spelling?",
+    "Answer": [
+      "Carolyn Jones"
+    ],
+    "Source Entity": [
+      "Aaron Spelling"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7076",
+    "Question": "What was Arthur Miller nominated for in 1997?",
+    "Answer": [
+      "Satellite Award for Best Adapted Screenplay",
+      "BAFTA Award for Best Adapted Screenplay"
+    ],
+    "Source Entity": [
+      "Arthur Miller"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7100",
+    "Question": "What nominations was the Shawshank Redemption up for on 2/14/1995?",
+    "Answer": [
+      "Academy Award for Best Picture"
+    ],
+    "Source Entity": [
+      "The Shawshank Redemption"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4064",
+    "Question": "Where does Abraham ibn Ezra live thats start time is 1161-0-0?",
+    "Answer": [
+      "Provence"
+    ],
+    "Source Entity": [
+      "Abraham ibn Ezra"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5306",
+    "Question": "Who started heading the government of Phoenix in 2004?",
+    "Answer": [
+      "Phil Gordon"
+    ],
+    "Source Entity": [
+      "Phoenix"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7444",
+    "Question": "Who did Jeff Goldblum marry in November 1987?",
+    "Answer": [
+      "Geena Davis"
+    ],
+    "Source Entity": [
+      "Jeff Goldblum"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4410",
+    "Question": "What position of Ayub Khan ended on October 26, 1958?",
+    "Answer": [
+      "Chief of Army Staff",
+      "Prime Minister of Pakistan"
+    ],
+    "Source Entity": [
+      "Ayub Khan"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5504",
+    "Question": "None",
+    "Answer": [
+      "Knesset member"
+    ],
+    "Source Entity": [
+      "Golda Meir"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8997",
+    "Question": "What is the safety classification and labelling of titanium dioxide that for NFPA Health is 1 ?",
+    "Answer": [
+      "NFPA 704: Standard System for the Identification of the Hazards of Materials for Emergency Response"
+    ],
+    "Source Entity": [
+      "titanium dioxide"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4479",
+    "Question": "What award did Jorge Luis Borges receive in 1971?",
+    "Answer": [
+      "Jerusalem Prize"
+    ],
+    "Source Entity": [
+      "Jorge Luis Borges"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6619",
+    "Question": "What Peter Finch is nominated for at 44th Academy Awards?",
+    "Answer": [
+      "Academy Award for Best Actor"
+    ],
+    "Source Entity": [
+      "Peter Finch"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8214",
+    "Question": "What was Nutan nominated for in 1974?",
+    "Answer": [
+      "Filmfare Award for Best Supporting Actress"
+    ],
+    "Source Entity": [
+      "Nutan Bahl"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4962",
+    "Question": "In 2003-0-0, what was Ole Einar Bjorndalen nominated for?",
+    "Answer": [
+      "Laureus World Sports Award for Sportsman of the Year"
+    ],
+    "Source Entity": [
+      "Ole Einar Bjørndalen"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5115",
+    "Question": "/For what type of work John Galsworthy has nominated in 1932?",
+    "Answer": [
+      "Nobel Prize in Literature"
+    ],
+    "Source Entity": [
+      "John Galsworthy"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5451",
+    "Question": "What award did Enrico Fermi receive in 1949?",
+    "Answer": [
+      "Silliman Memorial Lectures"
+    ],
+    "Source Entity": [
+      "Enrico Fermi"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5430",
+    "Question": "What is {award received} of {The Road} which is {followed by} is {Vellum} ?",
+    "Answer": [
+      "Tähtivaeltaja Award"
+    ],
+    "Source Entity": [
+      "The Road"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3807",
+    "Question": "Which award did Mstislav Rostropovich receive in the year 1981?",
+    "Answer": [
+      "Léonie Sonning Music Prize"
+    ],
+    "Source Entity": [
+      "Mstislav Rostropovich"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5140",
+    "Question": "What was Bertha Von Suttner nominated for in 1905?",
+    "Answer": [
+      "Nobel Peace Prize"
+    ],
+    "Source Entity": [
+      "Bertha von Suttner"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5565",
+    "Question": "What award did Nikolay Cherkasov win on February 26, 1947?",
+    "Answer": [
+      "People's Artist of the USSR"
+    ],
+    "Source Entity": [
+      "Nikolay Cherkasov"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4765",
+    "Question": "What position did Charles G. Dawes hold starting April 16, 1929?",
+    "Answer": [
+      "United States Ambassador to the United Kingdom"
+    ],
+    "Source Entity": [
+      "Charles G. Dawes"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4503",
+    "Question": "Who was Hayao Miyazaki's last employer in the year 1984?",
+    "Answer": [
+      "TMS Entertainment"
+    ],
+    "Source Entity": [
+      "Hayao Miyazaki"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6659",
+    "Question": "What country was abolished in Kirovohrad oblast in the year 1991?",
+    "Answer": [
+      "Soviet Union"
+    ],
+    "Source Entity": [
+      "Kirovohrad Oblast"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4975",
+    "Question": "What award did Martha Nussbaum receive in 2012?",
+    "Answer": [
+      "Albertus-Magnus professorate",
+      "Princess of Asturias Award for Social Sciences"
+    ],
+    "Source Entity": [
+      "Martha Nussbaum"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8451",
+    "Question": "What note, with a frequency of 87.307, is the lowest of Mariah Careys range?",
+    "Answer": [
+      "F"
+    ],
+    "Source Entity": [
+      "Mariah Carey"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5181",
+    "Question": "What award did Dietrich Fischer-Dieskau receive on January 1, 1988?",
+    "Answer": [
+      "Royal Philharmonic Society Gold Medal"
+    ],
+    "Source Entity": [
+      "Dietrich Fischer-Dieskau"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6996",
+    "Question": "What was Emmanuelle Riva nominated for in 2013?",
+    "Answer": [
+      "César Award for Best Actress"
+    ],
+    "Source Entity": [
+      "Emmanuelle Riva"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5731",
+    "Question": "What award did Saroj Khan achieve for working on Guru?",
+    "Answer": [
+      "Filmfare Award for Best Choreography"
+    ],
+    "Source Entity": [
+      "Saroj Khan"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4109",
+    "Question": "On February 8, 1974, what position did Harold Wilson hold?",
+    "Answer": [
+      "Leader of the Opposition",
+      "Member of the 45th Parliament of the United Kingdom",
+      "Member of the 46th Parliament of the United Kingdom"
+    ],
+    "Source Entity": [
+      "Harold Wilson"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3629",
+    "Question": "In what position will Maria Miller replace Theresa May?",
+    "Answer": [
+      "Minister for Women and Equalities"
+    ],
+    "Source Entity": [
+      "Theresa May"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5740",
+    "Question": "Who did Steve Martin mary in the year 1986?",
+    "Answer": [
+      "Victoria Tennant"
+    ],
+    "Source Entity": [
+      "Steve Martin"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3930",
+    "Question": "The stock exchange rate of Nintendo is ticker symbol, 7974",
+    "Answer": [
+      "Tokyo Stock Exchange"
+    ],
+    "Source Entity": [
+      "Nintendo"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5205",
+    "Question": "Where did Robert J. Shiller receive is Ph.D?",
+    "Answer": [
+      "Massachusetts Institute of Technology"
+    ],
+    "Source Entity": [
+      "Robert J. Shiller"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4851",
+    "Question": "What award was received by Konrad Zuse in 1964?",
+    "Answer": [
+      "Werner von Siemens Ring"
+    ],
+    "Source Entity": [
+      "Konrad Zuse"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3947",
+    "Question": "the {place of death} of {Patricia Neal} that is {located in the administrative territorial entity} is {Massachusetts} ?",
+    "Answer": [
+      "Edgartown"
+    ],
+    "Source Entity": [
+      "Patricia Neal"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7929",
+    "Question": "When did Jagjivan Ram succeed Morarji Desai?",
+    "Answer": [
+      "Deputy Prime Minister of India"
+    ],
+    "Source Entity": [
+      "Morarji Desai"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3992",
+    "Question": "What award did Jurassic Park receive at the 66th Academy Awards?",
+    "Answer": [
+      "Academy Award for Best Visual Effects",
+      "Academy Award for Best Sound Editing",
+      "Academy Award for Best Sound Mixing"
+    ],
+    "Source Entity": [
+      "Jurassic Park"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4156",
+    "Question": "What did W.G. Sebald win in 1994?",
+    "Answer": [
+      "Q1697077",
+      "Berliner Literaturpreis"
+    ],
+    "Source Entity": [
+      "W. G. Sebald"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5758",
+    "Question": "Who is {nominated for} of {FC Barcelona} where {point in time} is {2007-0-0} ?",
+    "Answer": [
+      "Laureus World Sports Award for Team of the Year"
+    ],
+    "Source Entity": [
+      "FC Barcelona"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8229",
+    "Question": "What was located in the administrative territorial entity of Toranto during 1840?",
+    "Answer": [
+      "Upper Canada"
+    ],
+    "Source Entity": [
+      "Toronto"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3799",
+    "Question": "Name the award which was received by Paul Robeson in the year 1974?",
+    "Answer": [
+      "Paul Robeson Award",
+      "Black Filmmakers Hall of Fame"
+    ],
+    "Source Entity": [
+      "Paul Robeson"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8726",
+    "Question": "what position did Harthacanute hold when he was replaced by Edward the confessor",
+    "Answer": [
+      "monarch of England"
+    ],
+    "Source Entity": [
+      "Harthacanute"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6828",
+    "Question": "What award did Sean Connery receive for The Rock?",
+    "Answer": [
+      "MTV Movie Award for Best On-Screen Duo"
+    ],
+    "Source Entity": [
+      "Sean Connery"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4290",
+    "Question": "What was Werner Heisenberg nominated for in 1929?",
+    "Answer": [
+      "Nobel Prize in Physics"
+    ],
+    "Source Entity": [
+      "Werner Heisenberg"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5844",
+    "Question": "Where did Mikhail Lomonosov finish his education in 1736?",
+    "Answer": [
+      "Academic University at the St. Petersburg Academy of Sciences"
+    ],
+    "Source Entity": [
+      "Mikhail Vassilyevich Lomonosov"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7555",
+    "Question": "Who was divorced to Rupert Murdoch in the year 1967?",
+    "Answer": [
+      "Patricia Booker"
+    ],
+    "Source Entity": [
+      "Rupert Murdoch"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4578",
+    "Question": "Which award did Howard Jacobson receive in 2013?",
+    "Answer": [
+      "Bollinger Everyman Wodehouse Prize"
+    ],
+    "Source Entity": [
+      "Howard Jacobson"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6716",
+    "Question": "What is the capital of Qing dynasty during its end in 1912?",
+    "Answer": [
+      "Shuntian Fu"
+    ],
+    "Source Entity": [
+      "Qing dynasty"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7082",
+    "Question": "In 2013, what political party was Gurbanguly Berdimuhamedow a member of?",
+    "Answer": [
+      "nonpartisanism"
+    ],
+    "Source Entity": [
+      "Gurbanguly Berdimuhamedow"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5970",
+    "Question": "What happened in Hiroshima in year 1904?",
+    "Answer": [
+      "big city"
+    ],
+    "Source Entity": [
+      "Hiroshima"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8812",
+    "Question": "Tina Turner was a citizen of what country as of 01/01/2013?",
+    "Answer": [
+      "United States of America"
+    ],
+    "Source Entity": [
+      "Tina Turner"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4899",
+    "Question": "for what position was Jimmy Carter replaced in Lester Maddox?",
+    "Answer": [
+      "Governor of Georgia"
+    ],
+    "Source Entity": [
+      "Jimmy Carter"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6468",
+    "Question": "Where did Hugo Pratt move from on August 20, 1995?",
+    "Answer": [
+      "Grandvaux"
+    ],
+    "Source Entity": [
+      "Hugo Pratt"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-9295",
+    "Question": "What did James Cagney win in the 15th Academy Awards?",
+    "Answer": [
+      "Academy Award for Best Actor"
+    ],
+    "Source Entity": [
+      "James Cagney"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8478",
+    "Question": "What award did José Echegaray get in 1911?",
+    "Answer": [
+      "Knight of the Order of the Golden Fleece"
+    ],
+    "Source Entity": [
+      "José Echegaray"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-9043",
+    "Question": "Who was the paternal half-sister of Mary, Queen of Scots?",
+    "Answer": [
+      "Lady Jean Stewart"
+    ],
+    "Source Entity": [
+      "Mary, Queen of Scots"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5124",
+    "Question": "Where did Ludwing Mies van der Rohe die?",
+    "Answer": [
+      "Chicago"
+    ],
+    "Source Entity": [
+      "Ludwig Mies van der Rohe"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8094",
+    "Question": "Who is the spouse of Mary Astor since 1928-1-1?",
+    "Answer": [
+      "Kenneth Hawks"
+    ],
+    "Source Entity": [
+      "Mary Astor"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4845",
+    "Question": "What was Avril Lavigne's original given name ?",
+    "Answer": [
+      "Avril"
+    ],
+    "Source Entity": [
+      "Avril Lavigne"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8782",
+    "Question": "For what John William Strutt, 3rd Baron Rayleigh was nominated on 1903-1-1?",
+    "Answer": [
+      "Nobel Prize in Physics"
+    ],
+    "Source Entity": [
+      "John William Strutt, 3rd Baron Rayleigh"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6658",
+    "Question": "What is  doctoral advisor  of Johann Bernoulli  that is  it has a role  is  first doctoral advisor ?",
+    "Answer": [
+      "Jacob Bernoulli"
+    ],
+    "Source Entity": [
+      "Johann Bernoulli"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7916",
+    "Question": "Who started being a subsidiary of Cisco Systems in 2010?",
+    "Answer": [
+      "Tandberg"
+    ],
+    "Source Entity": [
+      "Cisco Systems"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4402",
+    "Question": "What award did Rihanna Receive in 2010?",
+    "Answer": [
+      "Grammy Award for Best Rap/Sung Performance"
+    ],
+    "Source Entity": [
+      "Rihanna"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6422",
+    "Question": "What is end time  1922 - 1 - 21  in the administrative territorial entity of  County Antrim ?",
+    "Answer": [
+      "Irish Republic",
+      "United Kingdom of Great Britain and Ireland"
+    ],
+    "Source Entity": [
+      "County Antrim"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5677",
+    "Question": "What was Richard Feynman nominated for in 1960?",
+    "Answer": [
+      "Nobel Prize in Physics"
+    ],
+    "Source Entity": [
+      "Richard Feynman"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5978",
+    "Question": "Did the head of Government for Montreal start in 2001-1-1",
+    "Answer": [
+      "Gérald Tremblay"
+    ],
+    "Source Entity": [
+      "Montreal"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4116",
+    "Question": "Name the character role played by Bobby Ewing as a cast memeber of Dallas?",
+    "Answer": [
+      "Patrick Duffy"
+    ],
+    "Source Entity": [
+      "Dallas"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8143",
+    "Question": "Who was Claude Francois's partner in 1964?",
+    "Answer": [
+      "France Gall"
+    ],
+    "Source Entity": [
+      "Claude François"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-9274",
+    "Question": "What award did Robert Zemeckis receive for his work in Forrest Gump?",
+    "Answer": [
+      "Academy Award for Best Director"
+    ],
+    "Source Entity": [
+      "Robert Zemeckis"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5635",
+    "Question": "Sumy Oblast was a citizen of what country in 1991?",
+    "Answer": [
+      "Soviet Union"
+    ],
+    "Source Entity": [
+      "Sumy Oblast"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6235",
+    "Question": "What position did Franz Joseph I of Austria replace of Ferninand I Emperor of Austria?",
+    "Answer": [
+      "Emperor of Austria"
+    ],
+    "Source Entity": [
+      "Franz Joseph I of Austria"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8284",
+    "Question": "What was Morgan Freeman nominated for in the 32nd Tony Awards?",
+    "Answer": [
+      "Tony Award for Best Featured Actor in a Play"
+    ],
+    "Source Entity": [
+      "Morgan Freeman"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5010",
+    "Question": "Who was Fred Perry's wife in 1940?",
+    "Answer": [
+      "Helen Vinson"
+    ],
+    "Source Entity": [
+      "Fred Perry"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4493",
+    "Question": "What territory was Yaroslavl a part of on 10 March 1936?",
+    "Answer": [
+      "Q4196582"
+    ],
+    "Source Entity": [
+      "Yaroslavl"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3984",
+    "Question": "What was the administrative territorial entity of Vladivostok when  11-14-1922 ended",
+    "Answer": [
+      "Primorskaya Oblast"
+    ],
+    "Source Entity": [
+      "Vladivostok"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4998",
+    "Question": "Who did Edward Teller marry on February 24, 1934?",
+    "Answer": [
+      "Augusta H. Teller"
+    ],
+    "Source Entity": [
+      "Edward Teller"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4811",
+    "Question": "What award Erik Axel Karlfeldt received at 1916-1-1?",
+    "Answer": [
+      "Samfundet De Nio's Grand Prize"
+    ],
+    "Source Entity": [
+      "Erik Axel Karlfeldt"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5418",
+    "Question": "What was Kingdom of Sicily's capital in the year of 1816?",
+    "Answer": [
+      "Palermo"
+    ],
+    "Source Entity": [
+      "Kingdom of Sicily"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5402",
+    "Question": "What is Emperor Anastasius I position in Zeno?",
+    "Answer": [
+      "Byzantine emperor"
+    ],
+    "Source Entity": [
+      "Emperor Anastasius I"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4475",
+    "Question": "What was Yves Montand nominated for in 1980-0-0?",
+    "Answer": [
+      "César Award for Best Actor"
+    ],
+    "Source Entity": [
+      "Yves Montand"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3678",
+    "Question": "What position does Ólafur Ragnar Grímsson hold that replaces the one of Vigdís Finnbogadóttir?",
+    "Answer": [
+      "President of Iceland"
+    ],
+    "Source Entity": [
+      "Ólafur Ragnar Grímsson"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5885",
+    "Question": "What was Piers Anthony nominated for that's work is the Crewel Lye: A Caustic Yarn?",
+    "Answer": [
+      "Locus Award for Best Fantasy Novel"
+    ],
+    "Source Entity": [
+      "Piers Anthony"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7044",
+    "Question": "What was the award of Trondheim received in 2008?",
+    "Answer": [
+      "Q18910363"
+    ],
+    "Source Entity": [
+      "Trondheim"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8857",
+    "Question": "What is located in the administrative territorial entity of Voronezh that has start time is 1934-6-13 ?",
+    "Answer": [
+      "Voronezh Oblast"
+    ],
+    "Source Entity": [
+      "Voronezh"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6467",
+    "Question": "What award did Robert Aumann receive on January 1, 2001?",
+    "Answer": [
+      "Nobel Prize in Economics",
+      "John von Neumann Theory Prize"
+    ],
+    "Source Entity": [
+      "Robert Aumann"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4885",
+    "Question": "What type of award was received by Peter Debye in 1937?",
+    "Answer": [
+      "Franklin Medal"
+    ],
+    "Source Entity": [
+      "Peter Debye"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8915",
+    "Question": "For what instance would nickel be followed by cobalt?",
+    "Answer": [
+      "chemical element"
+    ],
+    "Source Entity": [
+      "cobalt"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8240",
+    "Question": "What position did both Charles IV of and Philip VI of France hold?",
+    "Answer": [
+      "king"
+    ],
+    "Source Entity": [
+      "Charles IV of France"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6456",
+    "Question": "What award did Vsevolod Pudovkin receive on 1953-0-0?",
+    "Answer": [
+      "Order of the Red Banner of Labour"
+    ],
+    "Source Entity": [
+      "Vsevolod Pudovkin"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5466",
+    "Question": "For what award Laszlo Krasznahorkai received on 2015-0-0?",
+    "Answer": [
+      "Man Booker International Prize"
+    ],
+    "Source Entity": [
+      "László Krasznahorkai"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5708",
+    "Question": "For what John Elway was in nomination in the year 1992?",
+    "Answer": [
+      "Walter Payton Man of the Year Award"
+    ],
+    "Source Entity": [
+      "John Elway"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4913",
+    "Question": "What position that Kurt Georg Kiesinger held was replaced by Hans Ehard?",
+    "Answer": [
+      "President of the Bundesrat of Germany"
+    ],
+    "Source Entity": [
+      "Kurt Georg Kiesinger"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3903",
+    "Question": "Who was Carrier Fisher's spouse prior to their divorce on Jan 1st, 1983",
+    "Answer": [
+      "Paul Simon"
+    ],
+    "Source Entity": [
+      "Carrie Fisher"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3990",
+    "Question": "What was Laurie Metcalf nominated for at the 62nd Tony Awards?",
+    "Answer": [
+      "Tony Award for Best Featured Actress in a Play"
+    ],
+    "Source Entity": [
+      "Laurie Metcalf"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8208",
+    "Question": "Where did George Grosz live in 1933?",
+    "Answer": [
+      "Berlin"
+    ],
+    "Source Entity": [
+      "George Grosz"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7022",
+    "Question": "At what university did Rosalind Franklin study physical chemistry?",
+    "Answer": [
+      "Newnham College",
+      "University of Cambridge"
+    ],
+    "Source Entity": [
+      "Rosalind Franklin"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-9340",
+    "Question": "Who was Steven Seagal's spouse on September 5, 1987?",
+    "Answer": [
+      "Kelly Le Brock"
+    ],
+    "Source Entity": [
+      "Steven Seagal"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8868",
+    "Question": "What is the position of Thomas Jefferson that is by Benjamin Franklin?",
+    "Answer": [
+      "United States Ambassador to France"
+    ],
+    "Source Entity": [
+      "Thomas Jefferson"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8042",
+    "Question": "What position did John McEwen hold on the 19th December 1967?",
+    "Answer": [
+      "Prime Minister of Australia"
+    ],
+    "Source Entity": [
+      "John McEwen"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8027",
+    "Question": "What is the twinned administrative body of Salzburg in the start time of 992-0-0?",
+    "Answer": [
+      "Kawasaki"
+    ],
+    "Source Entity": [
+      "Salzburg"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6247",
+    "Question": "Where Tsai Ing-wen had her collegre degree on 1978?",
+    "Answer": [
+      "National Taiwan University"
+    ],
+    "Source Entity": [
+      "Tsai Ing-wen"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5801",
+    "Question": "What was Georges Simenon nominated for in 1965 ?",
+    "Answer": [
+      "Nobel Prize in Literature"
+    ],
+    "Source Entity": [
+      "Georges Simenon"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8657",
+    "Question": "Which Award did Jane Wyman receive at the 21st Academy Awards?",
+    "Answer": [
+      "Academy Award for Best Actress"
+    ],
+    "Source Entity": [
+      "Jane Wyman"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5159",
+    "Question": "Who does the voice for the Mayor of Townsville in The Powerpuff Girls?",
+    "Answer": [
+      "Tom Kenny"
+    ],
+    "Source Entity": [
+      "The Powerpuff Girls"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4906",
+    "Question": "Who became the editor of Glamour in 1998?",
+    "Answer": [
+      "Bonnie Fuller"
+    ],
+    "Source Entity": [
+      "Glamour"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8021",
+    "Question": "What position did Sean MacBride hold in the parliamentary group called Clann na Poblachta?",
+    "Answer": [
+      "Deputy to the Dáil"
+    ],
+    "Source Entity": [
+      "Seán MacBride"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-9082",
+    "Question": "What was Rick Baker nominated for for Coming to America?",
+    "Answer": [
+      "Academy Award for Best Makeup and Hairstyling"
+    ],
+    "Source Entity": [
+      "Rick Baker"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8942",
+    "Question": "What award was received by Hayao Miyazaju?",
+    "Answer": [
+      "Academy Award for Best Animated Feature"
+    ],
+    "Source Entity": [
+      "Spirited Away"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4095",
+    "Question": "Who did Mary McCarthy divorce in 1946?",
+    "Answer": [
+      "Edmund Wilson"
+    ],
+    "Source Entity": [
+      "Mary McCarthy"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-9224",
+    "Question": "What is the instance of Republic of Genova since the year of 1005?",
+    "Answer": [
+      "sovereign state",
+      "oligarchy"
+    ],
+    "Source Entity": [
+      "Republic of Genova"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4710",
+    "Question": "What award did Lady Gaga receive in the year 2010?",
+    "Answer": [
+      "MTV Video Music Award for Video of the Year",
+      "Grammy Award for Best Music Video",
+      "Grammy Award for Best Female Pop Vocal Performance"
+    ],
+    "Source Entity": [
+      "Lady Gaga"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4536",
+    "Question": "What award was received by Mairead maguire in the year 1976?",
+    "Answer": [
+      "People's Peace Prize",
+      "Nobel Peace Prize",
+      "Carl-von-Ossietzky-Medaille"
+    ],
+    "Source Entity": [
+      "Mairead Maguire"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7592",
+    "Question": "What award did Ninette de Valois receive in 1964?",
+    "Answer": [
+      "Albert Medal"
+    ],
+    "Source Entity": [
+      "Ninette de Valois"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-9323",
+    "Question": "Name the position received by 1st series of Makarios III?",
+    "Answer": [
+      "President of Cyprus"
+    ],
+    "Source Entity": [
+      "Makarios III"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4478",
+    "Question": "What award did Igor Sikorsky receive in 1967?",
+    "Answer": [
+      "National Medal of Science"
+    ],
+    "Source Entity": [
+      "Igor Sikorsky"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6989",
+    "Question": "What was the last residence of Paul Gauguin in April 1885?",
+    "Answer": [
+      "Frederiksberg"
+    ],
+    "Source Entity": [
+      "Paul Gauguin"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3611",
+    "Question": "None",
+    "Answer": [
+      "book collector"
+    ],
+    "Source Entity": [
+      "Alexander Pushkin"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5668",
+    "Question": "In which city of New York was George Burns born?",
+    "Answer": [
+      "New York City"
+    ],
+    "Source Entity": [
+      "George Burns"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4274",
+    "Question": "What position did Kenneth Kaunda hold until 6-21-1971?",
+    "Answer": [
+      "chairperson of the Organisation of African Unity"
+    ],
+    "Source Entity": [
+      "Kenneth Kaunda"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5022",
+    "Question": "Where in Ontario did Marshall McLuhan die?",
+    "Answer": [
+      "Toronto"
+    ],
+    "Source Entity": [
+      "Marshall McLuhan"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7862",
+    "Question": "Who is the member of sports team of Roger Milla who died at 1996-1-1?",
+    "Answer": [
+      "Bali United F.C."
+    ],
+    "Source Entity": [
+      "Roger Milla"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8892",
+    "Question": "Buckminster Fuller received which award in 1968?",
+    "Answer": [
+      "Royal Gold Medal"
+    ],
+    "Source Entity": [
+      "Buckminster Fuller"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8888",
+    "Question": "for what walker percy was bominated in the work is moviegoer?",
+    "Answer": [
+      "National Book Award for Fiction"
+    ],
+    "Source Entity": [
+      "Walker Percy"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6286",
+    "Question": "What are the uses of Ciliophora for aquatic locomotion?",
+    "Answer": [
+      "cilium"
+    ],
+    "Source Entity": [
+      "Ciliophora"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4013",
+    "Question": "What Alex Haley received for his work in The Autobiography of Malcolm X?",
+    "Answer": [
+      "Anisfield-Wolf Book Awards"
+    ],
+    "Source Entity": [
+      "Alex Haley"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7490",
+    "Question": "Who plays Bill Potts on Doctor Who?",
+    "Answer": [
+      "Pearl Mackie"
+    ],
+    "Source Entity": [
+      "Doctor Who"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-9010",
+    "Question": "What award did Orson Scott Card receive in 1987?",
+    "Answer": [
+      "Hugo Award for Best Novel",
+      "Locus Award for Best Science Fiction Novel"
+    ],
+    "Source Entity": [
+      "Orson Scott Card"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4409",
+    "Question": "What is the position of Mustafa Kemal Atatürk that started May 3, 1920?",
+    "Answer": [
+      "President of Turkey"
+    ],
+    "Source Entity": [
+      "Mustafa Kemal Atatürk"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7095",
+    "Question": "For what subject did Zero Mostel receive the 19th Tony Awards?",
+    "Answer": [
+      "Tony Award for Best Actor in a Musical"
+    ],
+    "Source Entity": [
+      "Zero Mostel"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6903",
+    "Question": "Who did Greer Garson marry on January 1, 1943?",
+    "Answer": [
+      "Richard Ney"
+    ],
+    "Source Entity": [
+      "Greer Garson"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4429",
+    "Question": "What was Michael Curtiz nominated for regarding his work with Angels with Dirty Faces?",
+    "Answer": [
+      "Academy Award for Best Director"
+    ],
+    "Source Entity": [
+      "Michael Curtiz"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3731",
+    "Question": "What was the residence of Kurt Weill in the year 1932?",
+    "Answer": [
+      "Kleinmachnow"
+    ],
+    "Source Entity": [
+      "Kurt Weill"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5411",
+    "Question": "Who is {educated at} of {John Foster Dulles} whereis {end time} is {1908-0-0} ?",
+    "Answer": [
+      "Princeton University"
+    ],
+    "Source Entity": [
+      "John Foster Dulles"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6715",
+    "Question": "Which award was received by Daniel Barenboim in the year 2002?",
+    "Answer": [
+      "Princess of Asturias Award for Concord"
+    ],
+    "Source Entity": [
+      "Daniel Barenboim"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7309",
+    "Question": "What was Clive Barker nominated for in 1988?",
+    "Answer": [
+      "Locus Award for Best Fantasy Novel"
+    ],
+    "Source Entity": [
+      "Clive Barker"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7704",
+    "Question": "What was Gabriel Marcel nominated for in 1962-1-1?",
+    "Answer": [
+      "Nobel Prize in Literature"
+    ],
+    "Source Entity": [
+      "Gabriel Marcel"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3620",
+    "Question": "Which is {position held} of {Harold Harefoot} whose {start time} is {1037-0-0} ?",
+    "Answer": [
+      "monarch of England"
+    ],
+    "Source Entity": [
+      "Harold Harefoot"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5326",
+    "Question": "Where did Hilary Putnam receive their Ph.D.?",
+    "Answer": [
+      "University of California, Los Angeles"
+    ],
+    "Source Entity": [
+      "Hilary Putnam"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5723",
+    "Question": "Which award did Mother Teresa receive in 1976?",
+    "Answer": [
+      "Pacem in Terris Award"
+    ],
+    "Source Entity": [
+      "Mother Teresa"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7765",
+    "Question": "Which position did William McMahon replace John Gorton in?",
+    "Answer": [
+      "Prime Minister of Australia"
+    ],
+    "Source Entity": [
+      "William McMahon"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6036",
+    "Question": "None",
+    "Answer": [
+      "member of the French National Assembly"
+    ],
+    "Source Entity": [
+      "Jean-Marie Le Pen"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4772",
+    "Question": "Who replaced Ernst Labin as chair of the International Skating Union?",
+    "Answer": [
+      "James Koch"
+    ],
+    "Source Entity": [
+      "International Skating Union"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6057",
+    "Question": "What nationality was Douglas Mawson at the time of the Royal and Parliamentary Titles Act in 1927?",
+    "Answer": [
+      "United Kingdom of Great Britain and Ireland"
+    ],
+    "Source Entity": [
+      "Douglas Mawson"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3883",
+    "Question": "For what Juan Antonio Samarnch held the position in the year 1973?",
+    "Answer": [
+      "Q43852848"
+    ],
+    "Source Entity": [
+      "Juan Antonio Samaranch"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6908",
+    "Question": "Andres Manuel Lopez Obrador held what  position in 0-0-2017?",
+    "Answer": [
+      "President of National Regeneration Movement"
+    ],
+    "Source Entity": [
+      "Andrés Manuel López Obrador"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5219",
+    "Question": "Where did Mikhail Skobelev receive his education in 1861?",
+    "Answer": [
+      "Imperial St. Petersburg University"
+    ],
+    "Source Entity": [
+      "Mikhail Skobelev"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-9222",
+    "Question": "What position did Adolfo Suárez hold until 1973?",
+    "Answer": [
+      "Q43134161"
+    ],
+    "Source Entity": [
+      "Adolfo Suárez"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5308",
+    "Question": "Was Inner Mongolia founded in 1947?",
+    "Answer": [
+      "Republic of China (1912–1949)"
+    ],
+    "Source Entity": [
+      "Inner Mongolia"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4373",
+    "Question": "What movement or organisation was Milutin Milanović a member of starting from 1920-2-16?",
+    "Answer": [
+      "Serbian Academy of Sciences and Arts"
+    ],
+    "Source Entity": [
+      "Milutin Milanković"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4464",
+    "Question": "In 1983, what award did the film \"E.T. The Extra-Terrestrial\" win?",
+    "Answer": [
+      "Saturn Award for Best Science Fiction Film",
+      "Saturn Award for Best Music",
+      "David di Donatello for Best Foreign Director",
+      "Japan Academy Prize for Outstanding Foreign Language Film",
+      "Boston Society of Film Critics Award for Best Director",
+      "BAFTA Award for Best Film Music",
+      "Saturn Award for Best Special Effects",
+      "Saturn Award for Best Writing"
+    ],
+    "Source Entity": [
+      "E.T. the Extra-Terrestrial"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7210",
+    "Question": "What was the award that Gerald R. Molen received for Schindler's List?",
+    "Answer": [
+      "Academy Award for Best Picture"
+    ],
+    "Source Entity": [
+      "Schindler's List"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3702",
+    "Question": "What edition of the Iliad is French?",
+    "Answer": [
+      "Les Dix Premiers Livres de l’Iliade d’Homère",
+      "Iliade",
+      "L'Iliade",
+      "L'Iliade",
+      "Iliade",
+      "L'Iliade",
+      "Q21716844",
+      "L'Iliade"
+    ],
+    "Source Entity": [
+      "Iliad"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8843",
+    "Question": "Who did Marcia Gay Harden marry in 1996?",
+    "Answer": [
+      "Thaddaeus Scheel"
+    ],
+    "Source Entity": [
+      "Marcia Gay Harden"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8082",
+    "Question": "What position did P. V. Narasimha Rao in Telugu hold on March 12, 1986?",
+    "Answer": [
+      "Minister of Home Affairs"
+    ],
+    "Source Entity": [
+      "P. V. Narasimha Rao"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4019",
+    "Question": "Was Some Like It Hot nominated for the 32nd Academy Awards?",
+    "Answer": [
+      "Academy Award for Best Director",
+      "Academy Award for Best Actor",
+      "Academy Award for Best Writing, Adapted Screenplay",
+      "Academy Award for Best Cinematography, Black-and-White",
+      "Academy Award for Best Costume Design, Black-and-White",
+      "Academy Award for Best Art Direction, Black and White"
+    ],
+    "Source Entity": [
+      "Some Like It Hot"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6769",
+    "Question": "What engine was Dota 2 based on at the start of September 2015?",
+    "Answer": [
+      "Source"
+    ],
+    "Source Entity": [
+      "Dota 2"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8370",
+    "Question": "Who was awarded Olympic bronze medal in Ryan Lochte?",
+    "Answer": [
+      "Swimming at the 2008 Summer Olympics – Men's 200 metre individual medley",
+      "Swimming at the 2012 Summer Olympics – Men's 200 metre backstroke",
+      "Swimming at the 2008 Summer Olympics – Men's 400 metre individual medley",
+      "2008 Summer Olympics",
+      "2012 Summer Olympics"
+    ],
+    "Source Entity": [
+      "Ryan Lochte"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4924",
+    "Question": "When did Michael C. Hall marry his spouse?",
+    "Answer": [
+      "Jennifer Carpenter"
+    ],
+    "Source Entity": [
+      "Michael C. Hall"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3919",
+    "Question": "What team did Paul Gascoigne leave in 2003?",
+    "Answer": [
+      "Gansu Tianma F.C."
+    ],
+    "Source Entity": [
+      "Paul Gascoigne"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8528",
+    "Question": "who was the spouse of Carl Jung as at 1955-0-0?",
+    "Answer": [
+      "Emma Jung"
+    ],
+    "Source Entity": [
+      "Carl Gustav Jung"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6663",
+    "Question": "What was located in the administrative territorial entity of Ivanovo which begun in 1918-6-20?",
+    "Answer": [
+      "Ivanovo-Voznesensk Governorate"
+    ],
+    "Source Entity": [
+      "Ivanovo"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4684",
+    "Question": "What was Spike Jonze nominated for in the 72nd Academy Awards?",
+    "Answer": [
+      "Academy Award for Best Director"
+    ],
+    "Source Entity": [
+      "Spike Jonze"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5153",
+    "Question": "Which sports team did Brian Lara joined at 1987-0-0?",
+    "Answer": [
+      "Trinidad and Tobago national cricket team"
+    ],
+    "Source Entity": [
+      "Brian Lara"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6024",
+    "Question": "What position did Earle Page leave on April 26, 1939?",
+    "Answer": [
+      "Prime Minister of Australia"
+    ],
+    "Source Entity": [
+      "Earle Page"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8218",
+    "Question": "For what was Douglas Trumbull in nomination for his role in Blade Runner?",
+    "Answer": [
+      "Academy Award for Best Visual Effects",
+      "BAFTA Award for Best Special Visual Effects",
+      "Saturn Award for Best Special Effects"
+    ],
+    "Source Entity": [
+      "Blade Runner"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-5711",
+    "Question": "When is the Herat country started in 1370?",
+    "Answer": [
+      "Timurid Empire"
+    ],
+    "Source Entity": [
+      "Herat"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-9016",
+    "Question": "What country was Józef Piłsudski a citizen of at the start of 1918?",
+    "Answer": [
+      "Second Polish Republic"
+    ],
+    "Source Entity": [
+      "Józef Piłsudski"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-9246",
+    "Question": "What sports team did Mircea Lucescu play for on 1-1-1977?",
+    "Answer": [
+      "FC Dinamo București"
+    ],
+    "Source Entity": [
+      "Mircea Lucescu"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-3674",
+    "Question": "What position is currently held by Honsi Mubarak that Moussa Traore held?",
+    "Answer": [
+      "chairperson of the Organisation of African Unity"
+    ],
+    "Source Entity": [
+      "Hosni Mubarak"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7995",
+    "Question": "What position does Iván Duque Márquez hold at 2018-4-10?",
+    "Answer": [
+      "member of the Senate of Colombia"
+    ],
+    "Source Entity": [
+      "Iván Duque Márquez"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-4194",
+    "Question": "What award did Richard Gere receive in 1979?",
+    "Answer": [
+      "David di Donatello for Best Foreign Actor"
+    ],
+    "Source Entity": [
+      "Richard Gere"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-9269",
+    "Question": "which is located in the administrative territorial entity of Cherkasy Oblast that has start time of 1991-8-24 ?",
+    "Answer": [
+      "Ukraine"
+    ],
+    "Source Entity": [
+      "Cherkasy Oblast"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8791",
+    "Question": "What Steven Spielberg was nominated for his work in the Bridge of Spies?",
+    "Answer": [
+      "Academy Award for Best Picture"
+    ],
+    "Source Entity": [
+      "Steven Spielberg"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7848",
+    "Question": "Who was no longer the spouse of Joan Crawford in the year 1933?",
+    "Answer": [
+      "Douglas Fairbanks Jr"
+    ],
+    "Source Entity": [
+      "Joan Crawford"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-7722",
+    "Question": "Who was Johnny Depp's partner until 1993?",
+    "Answer": [
+      "Winona Ryder"
+    ],
+    "Source Entity": [
+      "Johnny Depp"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-8674",
+    "Question": "What is an example of African American diaspora?",
+    "Answer": [
+      "ethnic group"
+    ],
+    "Source Entity": [
+      "African Americans"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6049",
+    "Question": "What was Heath Ledger nominated for concerning his work on Brokeback Mountain?",
+    "Answer": [
+      "Academy Award for Best Actor"
+    ],
+    "Source Entity": [
+      "Heath Ledger"
+    ],
+    "Reasoning Path": null
+  },
+  {
+    "index": "lcquad2-20181217-test-6130",
+    "Question": "Who did Alfred Kinsey divorce in 1956?",
+    "Answer": [
+      "Clara McMillen"
+    ],
+    "Source Entity": [
+      "Alfred Kinsey"
+    ],
+    "Reasoning Path": null
+  }
+]
